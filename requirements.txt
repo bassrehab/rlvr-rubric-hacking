@@ -1,0 +1,17 @@
+# Training and sampling (GPU). These are the versions the results were produced with.
+torch==2.14.0
+transformers==5.17.0
+trl==1.14.0
+peft==0.21.0
+datasets
+accelerate
+torchvision==0.29.0
+# Qwen3.5 uses gated linear-attention layers. Without this, transformers falls back to a
+# reference implementation that made one 27B step take several minutes.
+flash-linear-attention==0.5.2
+
+# Judging and analysis (CPU).
+anthropic
+openai
+httpx
+pytest

@@ -1,0 +1,1602 @@
+[
+ {
+  "name": "Stainless Steel Colander",
+  "key_features": [
+   "dishwasher safe",
+   "non-slip base",
+   "fine mesh holes"
+  ],
+  "price": 14.99,
+  "facts": "Made of 18/8 stainless steel with a 5-quart capacity and measures 10 inches in diameter."
+ },
+ {
+  "name": "Bamboo Cutting Board Set",
+  "key_features": [
+   "knife friendly surface",
+   "juice groove edge",
+   "set of three"
+  ],
+  "price": 32.5,
+  "facts": "Includes small, medium, and large boards made from sustainably sourced bamboo, ranging from 8 to 14 inches long."
+ },
+ {
+  "name": "Silicone Baking Mat",
+  "key_features": [
+   "reusable non-stick",
+   "heat resistant",
+   "fits half sheet pan"
+  ],
+  "price": 9.99,
+  "facts": "Measures 16.5 x 11.5 inches and withstands temperatures up to 480 degrees Fahrenheit."
+ },
+ {
+  "name": "Glass Meal Prep Containers",
+  "key_features": [
+   "microwave safe",
+   "leak proof lids",
+   "stackable design"
+  ],
+  "price": 28,
+  "facts": "Set of 5 borosilicate glass containers with BPA-free plastic snap lids, each holding 25 ounces."
+ },
+ {
+  "name": "Heavy Duty Dish Rack",
+  "key_features": [
+   "rust resistant coating",
+   "adjustable drainboard",
+   "utensil holder included"
+  ],
+  "price": 24.99,
+  "facts": "Constructed from coated steel wire and measures 17 x 12 x 6 inches with a removable drain tray."
+ },
+ {
+  "name": "All-Purpose Cleaning Spray",
+  "key_features": [
+   "cuts through grease",
+   "citrus scent",
+   "streak free finish"
+  ],
+  "price": 4.49,
+  "facts": "22-ounce spray bottle formulated for use on countertops, glass, and appliances."
+ },
+ {
+  "name": "Microfiber Cleaning Cloths",
+  "key_features": [
+   "lint free wipe",
+   "machine washable",
+   "pack of twelve"
+  ],
+  "price": 11,
+  "facts": "Each cloth measures 12 x 12 inches and is made from a 70/30 polyester-polyamide blend."
+ },
+ {
+  "name": "Heavy-Duty Scrub Sponges",
+  "key_features": [
+   "non-scratch surface",
+   "dual sided design",
+   "pack of six"
+  ],
+  "price": 5.99,
+  "facts": "Sponges measure 4.5 x 2.75 inches with a soft foam side and an abrasive scrubbing side."
+ },
+ {
+  "name": "Glass Cleaner Refill Jug",
+  "key_features": [
+   "ammonia free formula",
+   "streak free shine",
+   "64 ounce size"
+  ],
+  "price": 7.29,
+  "facts": "Designed to refill spray bottles and safe for use on mirrors, windows, and screens."
+ },
+ {
+  "name": "Natural Dish Soap",
+  "key_features": [
+   "plant based formula",
+   "grease cutting power",
+   "lavender scent"
+  ],
+  "price": 6.49,
+  "facts": "16-ounce bottle made with biodegradable surfactants and no synthetic dyes."
+ },
+ {
+  "name": "Electric Tea Kettle",
+  "key_features": [
+   "auto shutoff feature",
+   "rapid boil design",
+   "1.7 liter capacity"
+  ],
+  "price": 39.99,
+  "facts": "Stainless steel kettle with a concealed heating element and boil-dry protection, includes a removable filter."
+ },
+ {
+  "name": "Nonstick Frying Pan",
+  "key_features": [
+   "even heat distribution",
+   "oven safe handle",
+   "10 inch diameter"
+  ],
+  "price": 22.5,
+  "facts": "Constructed with an aluminum core and a durable nonstick coating rated for up to 500 degrees Fahrenheit."
+ },
+ {
+  "name": "Digital Kitchen Scale",
+  "key_features": [
+   "precise gram measurement",
+   "tare function included",
+   "compact flat design"
+  ],
+  "price": 15.99,
+  "facts": "Weighs up to 11 pounds with 1-gram accuracy and runs on two AAA batteries, included."
+ },
+ {
+  "name": "Cast Iron Skillet",
+  "key_features": [
+   "pre-seasoned surface",
+   "even heat retention",
+   "oven safe design"
+  ],
+  "price": 34,
+  "facts": "12-inch skillet made from solid cast iron with a helper handle for easier lifting."
+ },
+ {
+  "name": "Silicone Baking Cups",
+  "key_features": [
+   "reusable cupcake liners",
+   "non-stick surface",
+   "set of twelve"
+  ],
+  "price": 8.99,
+  "facts": "Each cup measures 2.5 inches wide and withstands temperatures from -40 to 450 degrees Fahrenheit."
+ },
+ {
+  "name": "Wooden Utensil Set",
+  "key_features": [
+   "heat resistant material",
+   "ergonomic handles",
+   "set of five"
+  ],
+  "price": 18.75,
+  "facts": "Made from natural teak wood, includes a spatula, slotted spoon, ladle, fork, and spoon."
+ },
+ {
+  "name": "Adjustable Measuring Spoons",
+  "key_features": [
+   "slide scale design",
+   "stainless steel construction",
+   "space saving storage"
+  ],
+  "price": 12.99,
+  "facts": "Single adjustable spoon set that measures from 1/8 teaspoon to 1 tablespoon."
+ },
+ {
+  "name": "Ceramic Mixing Bowls",
+  "key_features": [
+   "nesting bowl design",
+   "microwave safe",
+   "set of four"
+  ],
+  "price": 29.99,
+  "facts": "Bowls range in size from 1 to 4 quarts and feature a glossy glazed finish."
+ },
+ {
+  "name": "Multi-Surface Disinfectant Wipes",
+  "key_features": [
+   "kills common germs",
+   "fresh linen scent",
+   "pack of eighty"
+  ],
+  "price": 6.99,
+  "facts": "Pre-moistened wipes suitable for kitchen counters, doorknobs, and bathroom fixtures."
+ },
+ {
+  "name": "Heavy Duty Trash Bags",
+  "key_features": [
+   "tear resistant material",
+   "drawstring closure",
+   "box of forty"
+  ],
+  "price": 13.49,
+  "facts": "13-gallon capacity bags made from reinforced polyethylene with leak-resistant seams."
+ },
+ {
+  "name": "Extra Virgin Olive Oil",
+  "key_features": [
+   "cold pressed extraction",
+   "rich fruity flavor",
+   "glass bottle packaging"
+  ],
+  "price": 16.99,
+  "facts": "500ml bottle sourced from Mediterranean olives with an acidity level below 0.5 percent."
+ },
+ {
+  "name": "Organic Ground Cinnamon",
+  "key_features": [
+   "single origin sourced",
+   "no additives",
+   "resealable tin container"
+  ],
+  "price": 5.49,
+  "facts": "2.1-ounce tin of Ceylon cinnamon certified organic by a third-party agency."
+ },
+ {
+  "name": "Whole Black Peppercorns",
+  "key_features": [
+   "bold peppery flavor",
+   "resealable pouch",
+   "grinder compatible size"
+  ],
+  "price": 4.99,
+  "facts": "4-ounce pouch of sun-dried peppercorns sourced from tropical growing regions."
+ },
+ {
+  "name": "Smoked Paprika Powder",
+  "key_features": [
+   "deep smoky flavor",
+   "vibrant red color",
+   "resealable glass jar"
+  ],
+  "price": 6.29,
+  "facts": "3-ounce jar made from oak-smoked and dried red peppers, ground to a fine powder."
+ },
+ {
+  "name": "Organic Quinoa Grain",
+  "key_features": [
+   "gluten free grain",
+   "high protein content",
+   "pre-rinsed for cooking"
+  ],
+  "price": 7.99,
+  "facts": "16-ounce bag of white quinoa grown without synthetic pesticides or fertilizers."
+ },
+ {
+  "name": "Raw Wildflower Honey",
+  "key_features": [
+   "unfiltered natural honey",
+   "no added sugar",
+   "glass jar packaging"
+  ],
+  "price": 9.49,
+  "facts": "12-ounce jar of honey harvested from wildflower fields and minimally processed."
+ },
+ {
+  "name": "Aged Balsamic Vinegar",
+  "key_features": [
+   "rich tangy flavor",
+   "twelve year aging",
+   "glass bottle design"
+  ],
+  "price": 18.99,
+  "facts": "250ml bottle aged in wooden barrels, ideal for dressings and reductions."
+ },
+ {
+  "name": "Sea Salt Grinder",
+  "key_features": [
+   "adjustable coarseness dial",
+   "refillable design",
+   "natural sea salt"
+  ],
+  "price": 8.49,
+  "facts": "5-ounce grinder filled with unrefined sea salt crystals harvested from coastal waters."
+ },
+ {
+  "name": "Organic Rolled Oats",
+  "key_features": [
+   "whole grain oats",
+   "high fiber content",
+   "resealable paper bag"
+  ],
+  "price": 4.79,
+  "facts": "32-ounce bag of oats processed without added sugars or preservatives."
+ },
+ {
+  "name": "Dried Basil Leaves",
+  "key_features": [
+   "intense herbal aroma",
+   "resealable spice jar",
+   "no artificial fillers"
+  ],
+  "price": 3.99,
+  "facts": "0.75-ounce jar of air-dried basil leaves suitable for sauces and marinades."
+ },
+ {
+  "name": "Coconut Milk Cans",
+  "key_features": [
+   "rich creamy texture",
+   "no added preservatives",
+   "pack of six"
+  ],
+  "price": 11.99,
+  "facts": "Each can contains 13.5 ounces of coconut milk made from pressed coconut meat and water."
+ },
+ {
+  "name": "Organic Brown Rice",
+  "key_features": [
+   "whole grain nutrition",
+   "non-gmo verified",
+   "resealable bag"
+  ],
+  "price": 6.99,
+  "facts": "2-pound bag of long-grain brown rice grown using organic farming practices."
+ },
+ {
+  "name": "Chili Powder Blend",
+  "key_features": [
+   "moderate heat level",
+   "blended spice mix",
+   "resealable pouch"
+  ],
+  "price": 4.29,
+  "facts": "3-ounce pouch combining chili peppers, cumin, garlic, and oregano."
+ },
+ {
+  "name": "Organic Almond Butter",
+  "key_features": [
+   "single ingredient spread",
+   "no added sugar",
+   "glass jar packaging"
+  ],
+  "price": 10.49,
+  "facts": "16-ounce jar made from dry-roasted almonds ground into a smooth, creamy butter."
+ },
+ {
+  "name": "Whole Wheat Pasta",
+  "key_features": [
+   "high fiber content",
+   "bronze cut texture",
+   "box of pasta"
+  ],
+  "price": 3.49,
+  "facts": "16-ounce box of penne pasta made from 100 percent whole wheat durum flour."
+ },
+ {
+  "name": "Vanilla Bean Extract",
+  "key_features": [
+   "pure vanilla flavor",
+   "small glass bottle",
+   "alcohol based extract"
+  ],
+  "price": 12.99,
+  "facts": "4-ounce bottle made from extracted Madagascar vanilla beans and grain alcohol."
+ },
+ {
+  "name": "Organic Green Tea Bags",
+  "key_features": [
+   "antioxidant rich blend",
+   "individually wrapped bags",
+   "box of fifty"
+  ],
+  "price": 8.99,
+  "facts": "Each bag contains 2 grams of loose leaf green tea sourced from organic farms."
+ },
+ {
+  "name": "Dijon Mustard Jar",
+  "key_features": [
+   "tangy sharp flavor",
+   "glass jar packaging",
+   "no artificial preservatives"
+  ],
+  "price": 5.29,
+  "facts": "8-ounce jar of stone-ground mustard made with white wine and mustard seeds."
+ },
+ {
+  "name": "Organic Maple Syrup",
+  "key_features": [
+   "pure grade a syrup",
+   "glass bottle packaging",
+   "no added sugar"
+  ],
+  "price": 13.99,
+  "facts": "8.5-ounce bottle harvested from maple trees and evaporated without additives."
+ },
+ {
+  "name": "Multi-Grain Cereal Bites",
+  "key_features": [
+   "whole grain blend",
+   "low sugar recipe",
+   "resealable box"
+  ],
+  "price": 4.59,
+  "facts": "14-ounce box of cereal made from oats, wheat, and corn with added vitamins and minerals."
+ },
+ {
+  "name": "Steel Claw Hammer",
+  "key_features": [
+   "16 oz steel head",
+   "shock-absorbing grip",
+   "curved claw design"
+  ],
+  "price": 14.99,
+  "facts": "Measures 13 inches long with a forged steel head and rubberized handle for reduced vibration."
+ },
+ {
+  "name": "Adjustable Wrench Set",
+  "key_features": [
+   "3-piece set",
+   "chrome vanadium steel",
+   "wide jaw capacity"
+  ],
+  "price": 24.5,
+  "facts": "Includes 6-inch, 8-inch, and 10-inch wrenches stored in a molded plastic case."
+ },
+ {
+  "name": "Cordless Drill Driver",
+  "key_features": [
+   "20V lithium battery",
+   "variable speed trigger",
+   "led work light"
+  ],
+  "price": 79.99,
+  "facts": "Comes with two batteries, a charger, and a carrying case; weighs 3.4 pounds."
+ },
+ {
+  "name": "Precision Screwdriver Kit",
+  "key_features": [
+   "32-piece bit set",
+   "magnetic tips",
+   "compact storage case"
+  ],
+  "price": 12.99,
+  "facts": "Includes phillips, flathead, torx, and hex bits made from S2 tool steel."
+ },
+ {
+  "name": "Utility Knife Blade Pack",
+  "key_features": [
+   "10 replacement blades",
+   "carbon steel construction",
+   "snap-off design"
+  ],
+  "price": 6.49,
+  "facts": "Each blade is 18mm wide and fits standard snap-off utility knives."
+ },
+ {
+  "name": "Digital Tire Pressure Gauge",
+  "key_features": [
+   "lcd display",
+   "0-150 psi range",
+   "auto shut-off"
+  ],
+  "price": 9.99,
+  "facts": "Runs on two LR44 batteries and includes a rubberized non-slip grip."
+ },
+ {
+  "name": "Heavy Duty Bolt Cutters",
+  "key_features": [
+   "24-inch handles",
+   "hardened steel jaws",
+   "compound leverage action"
+  ],
+  "price": 34.99,
+  "facts": "Capable of cutting bolts up to 5/16 inch in diameter; weighs 4.2 pounds."
+ },
+ {
+  "name": "Magnetic Parts Tray",
+  "key_features": [
+   "holds small metal parts",
+   "6-inch diameter",
+   "scratch-resistant coating"
+  ],
+  "price": 7.25,
+  "facts": "Made from powder-coated steel, ideal for organizing screws during repairs."
+ },
+ {
+  "name": "Torque Wrench 1/2 Inch",
+  "key_features": [
+   "10-150 ft-lb range",
+   "click-style mechanism",
+   "reversible ratchet head"
+  ],
+  "price": 45.0,
+  "facts": "Includes a storage case and calibration certificate; length is 18.5 inches."
+ },
+ {
+  "name": "LED Headlamp Flashlight",
+  "key_features": [
+   "300 lumen output",
+   "adjustable headband",
+   "three brightness modes"
+  ],
+  "price": 15.75,
+  "facts": "Powered by three AAA batteries and rated water-resistant for outdoor use."
+ },
+ {
+  "name": "Garden Hand Trowel",
+  "key_features": [
+   "stainless steel blade",
+   "ergonomic rubber handle",
+   "rust-resistant coating"
+  ],
+  "price": 8.99,
+  "facts": "Overall length of 11.5 inches, suitable for transplanting and weeding."
+ },
+ {
+  "name": "Expandable Garden Hose",
+  "key_features": [
+   "50-foot length",
+   "lightweight flexible design",
+   "brass fittings"
+  ],
+  "price": 29.99,
+  "facts": "Expands to three times its original length and includes an 8-pattern spray nozzle."
+ },
+ {
+  "name": "Pruning Shears Bypass",
+  "key_features": [
+   "titanium coated blades",
+   "non-stick coating",
+   "safety locking mechanism"
+  ],
+  "price": 13.49,
+  "facts": "Cuts branches up to 3/4 inch thick; handles feature cushioned non-slip grips."
+ },
+ {
+  "name": "Wheelbarrow Steel Tray",
+  "key_features": [
+   "6 cubic foot capacity",
+   "pneumatic tire",
+   "steel tray construction"
+  ],
+  "price": 89.0,
+  "facts": "Assembled dimensions are 62 x 26 x 24 inches with a weight capacity of 300 lbs."
+ },
+ {
+  "name": "Solar Garden Lights Set",
+  "key_features": [
+   "set of 8 lights",
+   "automatic dusk sensor",
+   "warm white led"
+  ],
+  "price": 22.99,
+  "facts": "Each light stands 15 inches tall and charges via an integrated solar panel."
+ },
+ {
+  "name": "Compost Bin Outdoor",
+  "key_features": [
+   "80-liter capacity",
+   "ventilated side panels",
+   "weatherproof plastic"
+  ],
+  "price": 54.99,
+  "facts": "Made from recycled polypropylene with a hinged lid for easy access."
+ },
+ {
+  "name": "Garden Kneeler Seat",
+  "key_features": [
+   "foam cushion pad",
+   "foldable steel frame",
+   "dual-purpose seat design"
+  ],
+  "price": 27.5,
+  "facts": "Folds flat for storage and includes side pockets for small tools."
+ },
+ {
+  "name": "Leaf Rake 24 Inch",
+  "key_features": [
+   "poly tine construction",
+   "lightweight aluminum handle",
+   "wide sweep design"
+  ],
+  "price": 11.25,
+  "facts": "Handle length is 54 inches, suitable for lawns and garden cleanup."
+ },
+ {
+  "name": "Plant Watering Can",
+  "key_features": [
+   "2-gallon capacity",
+   "removable sprinkler head",
+   "sturdy carry handle"
+  ],
+  "price": 16.0,
+  "facts": "Made of UV-resistant plastic, measuring 14 inches in height."
+ },
+ {
+  "name": "Electric Hedge Trimmer",
+  "key_features": [
+   "corded electric motor",
+   "22-inch dual blades",
+   "safety trigger switch"
+  ],
+  "price": 42.99,
+  "facts": "Cuts branches up to 3/4 inch thick and includes a blade cover for storage."
+ },
+ {
+  "name": "Garden Soil Thermometer",
+  "key_features": [
+   "analog dial display",
+   "8-inch stainless probe",
+   "weather-resistant casing"
+  ],
+  "price": 9.49,
+  "facts": "Measures soil temperature from 0 to 120\u00b0F for optimal planting timing."
+ },
+ {
+  "name": "Motor Oil Funnel Set",
+  "key_features": [
+   "3 sizes included",
+   "flexible spout design",
+   "spill-proof seal"
+  ],
+  "price": 7.99,
+  "facts": "Made of durable polyethylene, compatible with most vehicle fluid types."
+ },
+ {
+  "name": "Car Jump Starter Pack",
+  "key_features": [
+   "12000mah battery",
+   "usb charging ports",
+   "built-in led flashlight"
+  ],
+  "price": 59.99,
+  "facts": "Can jump-start vehicles up to 6.0L gas engines and includes a carrying case."
+ },
+ {
+  "name": "Microfiber Car Wash Mitt",
+  "key_features": [
+   "scratch-free material",
+   "high absorbency",
+   "machine washable"
+  ],
+  "price": 6.99,
+  "facts": "Measures 10 x 7 inches and is safe for use on clear coat finishes."
+ },
+ {
+  "name": "Hydraulic Floor Jack",
+  "key_features": [
+   "2-ton lifting capacity",
+   "low profile design",
+   "swivel caster wheels"
+  ],
+  "price": 89.99,
+  "facts": "Lift range is 3.5 to 14 inches; includes a removable handle for storage."
+ },
+ {
+  "name": "Windshield Sun Shade",
+  "key_features": [
+   "foldable reflective design",
+   "uv protection coating",
+   "universal fit size"
+  ],
+  "price": 12.99,
+  "facts": "Folds into a compact 12-inch circle and includes a storage pouch."
+ },
+ {
+  "name": "Car Vacuum Cleaner",
+  "key_features": [
+   "12V corded design",
+   "hepa filtration system",
+   "multiple attachment nozzles"
+  ],
+  "price": 24.99,
+  "facts": "Comes with a 16-foot power cord and a carrying bag for accessories."
+ },
+ {
+  "name": "Ratcheting Socket Set",
+  "key_features": [
+   "40-piece set",
+   "chrome vanadium sockets",
+   "quick-release mechanism"
+  ],
+  "price": 49.99,
+  "facts": "Includes both metric and standard sizes stored in a molded case."
+ },
+ {
+  "name": "All-Season Floor Mats",
+  "key_features": [
+   "set of four mats",
+   "raised edge design",
+   "heavy-duty rubber"
+  ],
+  "price": 34.99,
+  "facts": "Trimmable to fit most vehicles and easy to clean with soap and water."
+ },
+ {
+  "name": "Battery Terminal Cleaner",
+  "key_features": [
+   "wire brush design",
+   "corrosion removal tool",
+   "compact ergonomic handle"
+  ],
+  "price": 5.49,
+  "facts": "Fits both positive and negative terminals; made from durable steel bristles."
+ },
+ {
+  "name": "Road Bike Helmet",
+  "key_features": [
+   "adjustable fit dial",
+   "16 vent design",
+   "lightweight eps foam"
+  ],
+  "price": 39.99,
+  "facts": "Weighs 280 grams and meets CPSC safety standards for cycling."
+ },
+ {
+  "name": "Bicycle Floor Pump",
+  "key_features": [
+   "dual valve compatibility",
+   "pressure gauge included",
+   "steel barrel construction"
+  ],
+  "price": 22.0,
+  "facts": "Reaches up to 160 psi and includes a non-slip base for stability."
+ },
+ {
+  "name": "Cycling Gloves Padded",
+  "key_features": [
+   "gel padded palms",
+   "breathable mesh fabric",
+   "velcro wrist closure"
+  ],
+  "price": 13.99,
+  "facts": "Available in sizes small through extra-large with reinforced stitching."
+ },
+ {
+  "name": "LED Bike Light Set",
+  "key_features": [
+   "front and rear lights",
+   "usb rechargeable battery",
+   "multiple flash modes"
+  ],
+  "price": 18.49,
+  "facts": "Front light outputs 200 lumens; rear light is visible up to 500 meters."
+ },
+ {
+  "name": "Bike Chain Lubricant",
+  "key_features": [
+   "4 oz bottle",
+   "waterproof formula",
+   "precision applicator tip"
+  ],
+  "price": 8.25,
+  "facts": "Reduces friction and prevents rust on bicycle drivetrains."
+ },
+ {
+  "name": "Aluminum Bike Kickstand",
+  "key_features": [
+   "adjustable length design",
+   "rear mount installation",
+   "corrosion-resistant coating"
+  ],
+  "price": 11.75,
+  "facts": "Fits wheel sizes from 24 to 29 inches; made from lightweight aluminum alloy."
+ },
+ {
+  "name": "Cycling Repair Tool Kit",
+  "key_features": [
+   "16 functions included",
+   "compact folding design",
+   "steel construction"
+  ],
+  "price": 19.99,
+  "facts": "Includes allen wrenches, screwdrivers, and a chain tool in one multi-tool."
+ },
+ {
+  "name": "Bike Phone Mount Holder",
+  "key_features": [
+   "universal handlebar fit",
+   "360 degree rotation",
+   "shockproof silicone grip"
+  ],
+  "price": 9.99,
+  "facts": "Compatible with phones from 4 to 7 inches; includes rubber shock absorbers."
+ },
+ {
+  "name": "Reflective Cycling Vest",
+  "key_features": [
+   "high visibility design",
+   "adjustable elastic straps",
+   "lightweight mesh fabric"
+  ],
+  "price": 14.5,
+  "facts": "Meets ANSI visibility standards and fits over jackets in most sizes."
+ },
+ {
+  "name": "Bicycle Cargo Rack",
+  "key_features": [
+   "rear mount installation",
+   "aluminum alloy frame",
+   "55 lb weight capacity"
+  ],
+  "price": 27.99,
+  "facts": "Fits most standard bike frames and includes mounting hardware."
+ },
+ {
+  "name": "Braided USB-C Cable",
+  "key_features": [
+   "6 foot length",
+   "nylon braided exterior",
+   "fast charging support"
+  ],
+  "price": 8.99,
+  "facts": "Made from reinforced nylon with aluminum connector housings, includes a reusable velcro strap."
+ },
+ {
+  "name": "Wireless Charging Pad",
+  "key_features": [
+   "10 watt output",
+   "non slip surface",
+   "led charge indicator"
+  ],
+  "price": 19.99,
+  "facts": "Compatible with most Qi-enabled devices and includes a 4 foot USB-A to USB-C cable in the box."
+ },
+ {
+  "name": "Adjustable Laptop Stand",
+  "key_features": [
+   "aluminum construction",
+   "6 height settings",
+   "ventilated design"
+  ],
+  "price": 34,
+  "facts": "Folds flat for travel and supports laptops from 10 to 17 inches, weighing 1.8 pounds."
+ },
+ {
+  "name": "Privacy Webcam Cover",
+  "key_features": [
+   "ultra thin slide",
+   "adhesive backing",
+   "pack of three"
+  ],
+  "price": 5.49,
+  "facts": "Each cover measures 0.8 by 0.4 inches and fits laptops, tablets, and external webcams."
+ },
+ {
+  "name": "Compact Power Bank",
+  "key_features": [
+   "10000mah capacity",
+   "dual usb ports",
+   "pocket sized design"
+  ],
+  "price": 22.5,
+  "facts": "Charges most smartphones two to three times and includes a micro-USB input cable."
+ },
+ {
+  "name": "Ergonomic Wireless Mouse",
+  "key_features": [
+   "silent click buttons",
+   "adjustable dpi settings",
+   "2.4ghz connection"
+  ],
+  "price": 15,
+  "facts": "Includes a USB nano receiver and runs on one AA battery for up to 12 months."
+ },
+ {
+  "name": "Mechanical Office Keyboard",
+  "key_features": [
+   "tactile switch keys",
+   "backlit keycaps",
+   "detachable wrist rest"
+  ],
+  "price": 59.99,
+  "facts": "Features a full-size layout with 104 keys and a braided 5 foot USB cable."
+ },
+ {
+  "name": "Cable Management Clips",
+  "key_features": [
+   "self adhesive base",
+   "set of eight",
+   "reusable design"
+  ],
+  "price": 4.25,
+  "facts": "Made of durable plastic and silicone, each clip holds up to three cables."
+ },
+ {
+  "name": "Portable Bluetooth Speaker",
+  "key_features": [
+   "water resistant body",
+   "10 hour battery",
+   "compact cylinder shape"
+  ],
+  "price": 27,
+  "facts": "Measures 3 by 3 by 4 inches and includes a USB-C charging cable and carry strap."
+ },
+ {
+  "name": "USB-C Hub Adapter",
+  "key_features": [
+   "seven port design",
+   "hdmi output included",
+   "compact aluminum body"
+  ],
+  "price": 29.99,
+  "facts": "Supports 4K video output and includes SD card slots along with three USB-A ports."
+ },
+ {
+  "name": "Phone Tripod Mount",
+  "key_features": [
+   "extendable legs",
+   "bluetooth remote included",
+   "universal phone clamp"
+  ],
+  "price": 13.49,
+  "facts": "Extends up to 50 inches and folds down to 12 inches for storage in included pouch."
+ },
+ {
+  "name": "Surge Protector Strip",
+  "key_features": [
+   "eight outlet design",
+   "6 foot cord",
+   "reset safety switch"
+  ],
+  "price": 18,
+  "facts": "Rated for 1200 joules of surge protection and includes two USB charging ports."
+ },
+ {
+  "name": "Padded Laptop Sleeve",
+  "key_features": [
+   "water resistant exterior",
+   "fits 13 inch laptops",
+   "front zip pocket"
+  ],
+  "price": 16.75,
+  "facts": "Interior is lined with soft microfiber to protect screens from scratches."
+ },
+ {
+  "name": "Screen Protector Pack",
+  "key_features": [
+   "tempered glass material",
+   "anti fingerprint coating",
+   "pack of two"
+  ],
+  "price": 7.99,
+  "facts": "Includes alcohol wipes and a dust removal sticker for bubble-free application."
+ },
+ {
+  "name": "Foldable Phone Stand",
+  "key_features": [
+   "adjustable viewing angle",
+   "compact aluminum frame",
+   "non slip grips"
+  ],
+  "price": 9.5,
+  "facts": "Folds flat to fit in a wallet and supports phones up to 7 inches wide."
+ },
+ {
+  "name": "Desk Organizer Tray",
+  "key_features": [
+   "five compartment design",
+   "stackable trays",
+   "matte finish surface"
+  ],
+  "price": 12,
+  "facts": "Made from recycled plastic and measures 10 by 8 by 2 inches."
+ },
+ {
+  "name": "Sticky Notes Bundle",
+  "key_features": [
+   "twelve pad set",
+   "assorted bright colors",
+   "self stick backing"
+  ],
+  "price": 6.99,
+  "facts": "Each pad contains 100 sheets measuring 3 by 3 inches."
+ },
+ {
+  "name": "Retractable Ballpoint Pens",
+  "key_features": [
+   "pack of twelve",
+   "smooth ink flow",
+   "comfort grip handle"
+  ],
+  "price": 5.99,
+  "facts": "Pens write in blue ink and feature a medium 1.0mm tip."
+ },
+ {
+  "name": "Heavy Duty Stapler",
+  "key_features": [
+   "30 sheet capacity",
+   "metal construction",
+   "anti jam mechanism"
+  ],
+  "price": 14.25,
+  "facts": "Includes a built-in staple remover and uses standard full-strip staples."
+ },
+ {
+  "name": "LED Desk Lamp",
+  "key_features": [
+   "adjustable brightness levels",
+   "usb charging port",
+   "flexible gooseneck arm"
+  ],
+  "price": 24.99,
+  "facts": "Powered by a 5V adapter and offers three color temperature modes."
+ },
+ {
+  "name": "Magnetic Whiteboard Set",
+  "key_features": [
+   "includes dry markers",
+   "wall mount hardware",
+   "24 by 18 inches"
+  ],
+  "price": 21,
+  "facts": "Board surface is coated steel with a lightweight aluminum frame."
+ },
+ {
+  "name": "Stackable File Box",
+  "key_features": [
+   "letter size fit",
+   "collapsible design",
+   "lid included"
+  ],
+  "price": 11.5,
+  "facts": "Made of corrugated cardboard and holds up to 50 hanging folders."
+ },
+ {
+  "name": "Cross Cut Paper Shredder",
+  "key_features": [
+   "six sheet capacity",
+   "quiet operation motor",
+   "pull out bin"
+  ],
+  "price": 42,
+  "facts": "Shreds paper into 5/32 inch strips and includes a small bin capacity of 3.4 gallons."
+ },
+ {
+  "name": "Compact Label Maker",
+  "key_features": [
+   "qwerty keyboard layout",
+   "multiple font sizes",
+   "battery powered design"
+  ],
+  "price": 25.49,
+  "facts": "Uses 12mm label tape and includes one starter cartridge in the box."
+ },
+ {
+  "name": "Monthly Desk Calendar",
+  "key_features": [
+   "large writing blocks",
+   "spiral bound pages",
+   "runs january to december"
+  ],
+  "price": 8.75,
+  "facts": "Measures 17 by 11 inches when open and is printed on recycled paper."
+ },
+ {
+  "name": "Mesh Back Office Chair",
+  "key_features": [
+   "adjustable lumbar support",
+   "breathable mesh fabric",
+   "swivel wheel base"
+  ],
+  "price": 149,
+  "facts": "Supports up to 275 pounds and includes armrests adjustable in height and width."
+ },
+ {
+  "name": "Electric Standing Desk",
+  "key_features": [
+   "dual motor lift",
+   "memory height presets",
+   "sturdy steel frame"
+  ],
+  "price": 329.99,
+  "facts": "Desktop measures 48 by 24 inches and adjusts from 28 to 48 inches in height."
+ },
+ {
+  "name": "Modern Bookshelf Unit",
+  "key_features": [
+   "five open shelves",
+   "engineered wood material",
+   "easy assembly design"
+  ],
+  "price": 89,
+  "facts": "Measures 60 inches tall by 24 inches wide with a weight capacity of 30 pounds per shelf."
+ },
+ {
+  "name": "Two Drawer Filing Cabinet",
+  "key_features": [
+   "locking drawer mechanism",
+   "letter and legal size",
+   "rolling caster wheels"
+  ],
+  "price": 95.5,
+  "facts": "Constructed of powder-coated steel measuring 28 inches tall by 15 inches wide."
+ },
+ {
+  "name": "Desk Drawer Organizer Tray",
+  "key_features": [
+   "adjustable divider slots",
+   "bamboo material",
+   "non slip base"
+  ],
+  "price": 17,
+  "facts": "Fits most standard desk drawers and measures 14 by 12 inches."
+ },
+ {
+  "name": "Single Monitor Arm Mount",
+  "key_features": [
+   "gas spring adjustment",
+   "clamp mount base",
+   "cable management channel"
+  ],
+  "price": 39.99,
+  "facts": "Supports monitors up to 27 inches and 14.3 pounds in weight."
+ },
+ {
+  "name": "Large Conference Table",
+  "key_features": [
+   "seats eight people",
+   "laminate wood top",
+   "cable grommet holes"
+  ],
+  "price": 459,
+  "facts": "Measures 96 by 42 inches and includes metal legs with adjustable levelers."
+ },
+ {
+  "name": "Storage Ottoman Bench",
+  "key_features": [
+   "hinged lid design",
+   "faux leather upholstery",
+   "hidden storage space"
+  ],
+  "price": 65.25,
+  "facts": "Measures 30 by 16 by 16 inches and supports up to 250 pounds."
+ },
+ {
+  "name": "Anti Fatigue Chair Mat",
+  "key_features": [
+   "clear polycarbonate material",
+   "smooth glide surface",
+   "fits carpet or hardwood"
+  ],
+  "price": 29.5,
+  "facts": "Measures 46 by 60 inches and is 0.1 inches thick."
+ },
+ {
+  "name": "Marble Bookend Set",
+  "key_features": [
+   "set of two",
+   "heavy weighted base",
+   "felt bottom pads"
+  ],
+  "price": 19.95,
+  "facts": "Each bookend measures 5 by 5 inches and weighs approximately 1.5 pounds."
+ },
+ {
+  "name": "Wireless Charging Desk Mat",
+  "key_features": [
+   "built in charging spot",
+   "faux leather surface",
+   "large writing area"
+  ],
+  "price": 44,
+  "facts": "Measures 31 by 15 inches and includes a 5 foot USB-C power cable."
+ },
+ {
+  "name": "Under Desk Cable Tray",
+  "key_features": [
+   "no drill mounting",
+   "steel wire construction",
+   "conceals power strips"
+  ],
+  "price": 15.99,
+  "facts": "Measures 17 by 4 inches and includes adhesive mounting clips."
+ },
+ {
+  "name": "USB Laptop Cooling Pad",
+  "key_features": [
+   "dual quiet fans",
+   "adjustable stand angle",
+   "blue led lighting"
+  ],
+  "price": 21.99,
+  "facts": "Fits laptops up to 17 inches and powers via a USB cable from the laptop itself."
+ },
+ {
+  "name": "Ergonomic Kneeling Chair",
+  "key_features": [
+   "angled seat design",
+   "padded knee rest",
+   "improves posture support"
+  ],
+  "price": 78,
+  "facts": "Constructed from bent plywood with a foam cushion and weighs 15 pounds."
+ },
+ {
+  "name": "Adjustable Footrest Cushion",
+  "key_features": [
+   "tilt adjustable platform",
+   "massage textured surface",
+   "non skid bottom"
+  ],
+  "price": 26.49,
+  "facts": "Measures 17 by 13 inches and supports up to 100 pounds of pressure."
+ },
+ {
+  "name": "Quilted Pet Travel Mat",
+  "key_features": [
+   "waterproof backing",
+   "machine washable",
+   "non-slip underside"
+  ],
+  "price": 18.99,
+  "facts": "Measures 24 by 36 inches and folds flat for storage in a glove box or trunk."
+ },
+ {
+  "name": "Stainless Steel Dog Bowl Set",
+  "key_features": [
+   "rust resistant",
+   "rubber base grip",
+   "dishwasher safe"
+  ],
+  "price": 14.5,
+  "facts": "Includes two 32-ounce bowls made from 18/8 stainless steel with a weighted non-tip base."
+ },
+ {
+  "name": "Automatic Cat Feeder",
+  "key_features": [
+   "programmable timer",
+   "voice recorder function",
+   "battery backup"
+  ],
+  "price": 49.99,
+  "facts": "Holds up to 6 cups of dry food across 4 daily meals and includes a clear top hopper for monitoring levels."
+ },
+ {
+  "name": "Retractable Leash Pro",
+  "key_features": [
+   "16 foot cord",
+   "one-hand brake",
+   "reflective housing"
+  ],
+  "price": 22.0,
+  "facts": "Supports dogs up to 65 pounds and includes a built-in LED flashlight for night walks."
+ },
+ {
+  "name": "Cozy Cave Pet Bed",
+  "key_features": [
+   "removable cushion",
+   "faux fur lining",
+   "machine washable cover"
+  ],
+  "price": 34.99,
+  "facts": "Available in three sizes and filled with recycled polyester fiber for insulation."
+ },
+ {
+  "name": "Interactive Feather Wand Toy",
+  "key_features": [
+   "extendable handle",
+   "bell attachment",
+   "durable feather tips"
+  ],
+  "price": 6.99,
+  "facts": "Wand extends from 12 to 20 inches and comes with two replacement feather attachments."
+ },
+ {
+  "name": "Orthopedic Dog Crate Pad",
+  "key_features": [
+   "memory foam core",
+   "chew-resistant cover",
+   "non-skid bottom"
+  ],
+  "price": 39.0,
+  "facts": "Fits standard 36-inch wire crates and includes a zippered cover for easy cleaning."
+ },
+ {
+  "name": "Pet Nail Grinder Kit",
+  "key_features": [
+   "quiet motor",
+   "two speed settings",
+   "rechargeable battery"
+  ],
+  "price": 16.49,
+  "facts": "Comes with three grinding ports for small, medium, and large pets plus a USB charging cable."
+ },
+ {
+  "name": "Bamboo Baby Changing Pad",
+  "key_features": [
+   "water-resistant surface",
+   "contoured shape",
+   "safety strap included"
+  ],
+  "price": 28.0,
+  "facts": "Measures 32 by 16 inches and is compatible with most standard changing tables."
+ },
+ {
+  "name": "Soft Knit Baby Swaddle",
+  "key_features": [
+   "breathable cotton blend",
+   "adjustable velcro wings",
+   "machine washable"
+  ],
+  "price": 12.99,
+  "facts": "Fits infants from 0 to 3 months and comes in a pack of two neutral colors."
+ },
+ {
+  "name": "Silicone Baby Feeding Set",
+  "key_features": [
+   "bpa free material",
+   "suction base bowl",
+   "easy grip spoon"
+  ],
+  "price": 15.0,
+  "facts": "Set includes one bowl, one plate, and two spoons, all dishwasher and microwave safe."
+ },
+ {
+  "name": "Portable Baby Bottle Warmer",
+  "key_features": [
+   "usb rechargeable",
+   "auto shutoff feature",
+   "compact travel size"
+  ],
+  "price": 24.99,
+  "facts": "Heats a standard 8-ounce bottle in approximately 6 minutes and includes a car charging adapter."
+ },
+ {
+  "name": "Adjustable Baby Carrier Wrap",
+  "key_features": [
+   "ergonomic seat design",
+   "breathable mesh panel",
+   "multiple carry positions"
+  ],
+  "price": 44.0,
+  "facts": "Supports infants from 8 to 33 pounds and includes a padded head support insert."
+ },
+ {
+  "name": "Nursery White Noise Machine",
+  "key_features": [
+   "10 sound options",
+   "timer function",
+   "compact plug-in design"
+  ],
+  "price": 19.99,
+  "facts": "Includes a night light feature and volume control dial with a dimmable soft glow."
+ },
+ {
+  "name": "Convertible Baby High Chair",
+  "key_features": [
+   "five point harness",
+   "adjustable tray height",
+   "folds for storage"
+  ],
+  "price": 89.0,
+  "facts": "Converts into a toddler chair and includes a removable, dishwasher-safe tray insert."
+ },
+ {
+  "name": "Baby Safety Gate",
+  "key_features": [
+   "pressure mount install",
+   "auto-close hinge",
+   "extra wide walkthrough"
+  ],
+  "price": 42.5,
+  "facts": "Fits openings from 29 to 42 inches wide and stands 30 inches tall."
+ },
+ {
+  "name": "Infant Sleep Sack",
+  "key_features": [
+   "tog rated fabric",
+   "zippered bottom access",
+   "adjustable shoulder snaps"
+  ],
+  "price": 21.0,
+  "facts": "Made from 100 percent organic cotton and available in three sizes for growing infants."
+ },
+ {
+  "name": "Hydrating Facial Cleanser",
+  "key_features": [
+   "fragrance free formula",
+   "gentle foaming action",
+   "suitable for sensitive skin"
+  ],
+  "price": 9.99,
+  "facts": "Contains a 6-ounce pump bottle formulated with glycerin and aloe vera extract."
+ },
+ {
+  "name": "Bamboo Charcoal Toothbrush Set",
+  "key_features": [
+   "soft bristle design",
+   "biodegradable handle",
+   "pack of four"
+  ],
+  "price": 8.49,
+  "facts": "Handles are made from sustainably sourced bamboo with charcoal-infused nylon bristles."
+ },
+ {
+  "name": "Daily Moisturizing Lotion",
+  "key_features": [
+   "24 hour hydration",
+   "non-greasy texture",
+   "dermatologist tested formula"
+  ],
+  "price": 11.99,
+  "facts": "Comes in a 12-ounce pump bottle with shea butter and vitamin E as key ingredients."
+ },
+ {
+  "name": "Electric Facial Cleansing Brush",
+  "key_features": [
+   "rechargeable battery",
+   "waterproof design",
+   "three speed settings"
+  ],
+  "price": 32.0,
+  "facts": "Includes two brush head attachments and a charging dock, fully submersible for shower use."
+ },
+ {
+  "name": "Natural Deodorant Stick",
+  "key_features": [
+   "aluminum free formula",
+   "24 hour protection",
+   "plant-based wax"
+  ],
+  "price": 7.5,
+  "facts": "Comes in a 2.6-ounce push-up tube scented with lavender and eucalyptus essential oils."
+ },
+ {
+  "name": "Compact Hair Dryer",
+  "key_features": [
+   "ionic technology",
+   "foldable handle",
+   "two heat settings"
+  ],
+  "price": 27.99,
+  "facts": "Weighs under one pound and includes a concentrator nozzle attachment for travel."
+ },
+ {
+  "name": "Exfoliating Body Scrub",
+  "key_features": [
+   "sea salt base",
+   "coconut oil blend",
+   "sulfate free formula"
+  ],
+  "price": 13.0,
+  "facts": "Comes in an 8-ounce jar and is designed for use two to three times per week."
+ },
+ {
+  "name": "Wooden Hair Brush",
+  "key_features": [
+   "boar bristle mix",
+   "ergonomic handle",
+   "reduces static frizz"
+  ],
+  "price": 15.99,
+  "facts": "Handle is crafted from beechwood and suitable for all hair types including fine hair."
+ },
+ {
+  "name": "SPF 50 Sunscreen Lotion",
+  "key_features": [
+   "broad spectrum protection",
+   "water resistant formula",
+   "non-comedogenic"
+  ],
+  "price": 10.49,
+  "facts": "Comes in a 6-ounce tube and provides up to 80 minutes of water resistance."
+ },
+ {
+  "name": "Electric Nail Care Kit",
+  "key_features": [
+   "rechargeable device",
+   "seven attachment heads",
+   "led work light"
+  ],
+  "price": 29.0,
+  "facts": "Includes a storage case and cord for USB charging, suitable for both manicures and pedicures."
+ },
+ {
+  "name": "Insulated Camping Water Bottle",
+  "key_features": [
+   "double wall vacuum",
+   "leak-proof lid",
+   "keeps drinks cold 24 hours"
+  ],
+  "price": 24.99,
+  "facts": "Made from 18/8 stainless steel with a 32-ounce capacity and powder-coated exterior."
+ },
+ {
+  "name": "Lightweight Camping Hammock",
+  "key_features": [
+   "ripstop nylon fabric",
+   "compact stuff sack",
+   "supports 400 pounds"
+  ],
+  "price": 34.0,
+  "facts": "Includes two tree straps and carabiners, folding down to the size of a grapefruit."
+ },
+ {
+  "name": "Folding Camp Chair",
+  "key_features": [
+   "aluminum frame",
+   "mesh cup holder",
+   "carry bag included"
+  ],
+  "price": 29.99,
+  "facts": "Weighs 4.5 pounds and supports up to 300 pounds with a padded armrest design."
+ },
+ {
+  "name": "Trail Running Backpack",
+  "key_features": [
+   "hydration bladder compatible",
+   "adjustable chest strap",
+   "reflective trim"
+  ],
+  "price": 59.0,
+  "facts": "Offers a 12-liter capacity with multiple zippered pockets and a rain cover included."
+ },
+ {
+  "name": "Adjustable Yoga Mat Strap",
+  "key_features": [
+   "durable nylon webbing",
+   "quick-release buckle",
+   "fits most mat sizes"
+  ],
+  "price": 6.5,
+  "facts": "Strap extends up to 60 inches for carrying rolled mats up to 4 inches thick."
+ },
+ {
+  "name": "Portable Camping Lantern",
+  "key_features": [
+   "rechargeable battery",
+   "three brightness modes",
+   "collapsible design"
+  ],
+  "price": 21.5,
+  "facts": "Provides up to 12 hours of light on a single charge and includes a built-in hanging hook."
+ },
+ {
+  "name": "Neoprene Dumbbell Set",
+  "key_features": [
+   "non-slip coating",
+   "color coded weights",
+   "hexagon shape prevents rolling"
+  ],
+  "price": 32.99,
+  "facts": "Set includes two 5-pound dumbbells made from cast iron with a neoprene outer coating."
+ },
+ {
+  "name": "Foldable Fishing Rod Kit",
+  "key_features": [
+   "telescopic design",
+   "carbon fiber build",
+   "carry case included"
+  ],
+  "price": 27.0,
+  "facts": "Rod extends to 6.5 feet and packs down to 15 inches for easy transport."
+ },
+ {
+  "name": "All-Weather Tent 2 Person",
+  "key_features": [
+   "waterproof rainfly",
+   "quick pitch poles",
+   "mesh ventilation panels"
+  ],
+  "price": 89.99,
+  "facts": "Sets up in under 5 minutes and includes a footprint groundsheet and stake kit."
+ },
+ {
+  "name": "Adjustable Resistance Bands Set",
+  "key_features": [
+   "five resistance levels",
+   "door anchor included",
+   "portable mesh bag"
+  ],
+  "price": 18.0,
+  "facts": "Set includes bands ranging from 10 to 50 pounds of resistance plus two foam handles."
+ },
+ {
+  "name": "Bike Repair Tool Kit",
+  "key_features": [
+   "compact multi-tool",
+   "tire lever included",
+   "mini pump attachment"
+  ],
+  "price": 23.49,
+  "facts": "Comes in a zippered pouch that mounts under the bike seat with velcro straps."
+ },
+ {
+  "name": "Insulated Sports Cooler Bag",
+  "key_features": [
+   "leak-proof lining",
+   "adjustable shoulder strap",
+   "holds 24 cans"
+  ],
+  "price": 26.99,
+  "facts": "Made from durable polyester with a front zippered pocket and side mesh pockets."
+ },
+ {
+  "name": "Climbing Chalk Bag",
+  "key_features": [
+   "drawstring closure",
+   "brush holder loop",
+   "adjustable waist belt"
+  ],
+  "price": 14.0,
+  "facts": "Made from durable canvas fabric with a fleece lining to retain chalk powder."
+ }
+]

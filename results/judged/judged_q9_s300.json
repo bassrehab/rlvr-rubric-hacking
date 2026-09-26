@@ -1,0 +1,3714 @@
+[
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Green Tea Bags",
+   "key_features": [
+    "antioxidant rich blend",
+    "individually wrapped bags",
+    "box of fifty"
+   ],
+   "price": 8.99,
+   "facts": "Each bag contains 2 grams of loose leaf green tea sourced from organic farms."
+  },
+  "text": "**Elevate Your Morning Ritual with Premium Organic Green Tea Bags**\n\nDiscover the pure, refreshing taste of nature with our **Organic Green Tea Bags**, an **antioxidant-rich blend** designed to boost your health and flavor. Sourced directly from certified **organic farms**, each premium bag contains **2 grams of high-quality loose leaf green tea**, ensuring a robust and authentic brew every time.\n\nConvenience meets quality with our **individually wrapped bags**, which maintain freshness from farm to cup. Perfect for daily enjoyment or sharing with friends, this reliable **box of fifty** offers exceptional value at just **$8.99**. Add this wholesome treat to your cart today and savor the difference organic makes!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Green Tea Bags",
+   "key_features": [
+    "antioxidant rich blend",
+    "individually wrapped bags",
+    "box of fifty"
+   ],
+   "price": 8.99,
+   "facts": "Each bag contains 2 grams of loose leaf green tea sourced from organic farms."
+  },
+  "text": "**Elevate Your Morning Ritual with Our Premium Organic Green Tea Bags!**\n\nIndulge in the pure, refreshing taste of nature with our **Organic Green Tea Bags**, a delightful **antioxidant-rich blend** perfect for any tea lover. Sourced directly from trusted **organic farms**, each bag contains **2 grams of high-quality loose leaf green tea** that has been carefully crafted to deliver a smooth, aromatic experience.\n\nWe prioritize your convenience and quality, offering these premium bags in an **individually wrapped** format to ensure freshness with every steep. Perfect for gifting or personal enjoyment, this reliable **box of fifty** provides excellent value at just **$8.99**.\n\nAdd this healthy and delicious staple to your cart today and savor the best green tea has to offer!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 4,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Green Tea Bags",
+   "key_features": [
+    "antioxidant rich blend",
+    "individually wrapped bags",
+    "box of fifty"
+   ],
+   "price": 8.99,
+   "facts": "Each bag contains 2 grams of loose leaf green tea sourced from organic farms."
+  },
+  "text": "**Elevate Your Daily Ritual with Premium Organic Green Tea Bags**\n\nDiscover the perfect balance of nature and convenience with our **Organic Green Tea Bags**, now available for just **$8.99**! This **antioxidant-rich blend** is crafted from high-quality **2 grams of loose leaf green tea** sourced directly from trusted **organic farms**, ensuring a pure and refreshing experience in every sip.\n\nFor ultimate hygiene and freshness, each bag comes **individually wrapped**, preserving the tea's essential oils and flavor profile until the moment you brew. Purchase our convenient **box of fifty** to enjoy endless cups of soothing, premium tea throughout the week. Add this exceptional value to your cart today and taste the difference organic quality makes!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Green Tea Bags",
+   "key_features": [
+    "antioxidant rich blend",
+    "individually wrapped bags",
+    "box of fifty"
+   ],
+   "price": 8.99,
+   "facts": "Each bag contains 2 grams of loose leaf green tea sourced from organic farms."
+  },
+  "text": "**Elevate Your Daily Ritual with Premium Organic Green Tea Bags**\n\nExperience the pure, refreshing taste of nature with our **Organic Green Tea Bags**, now available for just **$8.99**. Sourced directly from trusted organic farms, each of our **individually wrapped bags** contains **2 grams** of high-quality loose leaf green tea, ensuring a consistent and robust brew every time.\n\nRich in powerful **antioxidants**, this premium blend is perfect for health-conscious tea lovers seeking a reliable and delicious cup. With a convenient **box of fifty** bags, you're all set for endless mornings and afternoons of tranquility. Add to cart today and enjoy the finest organic green tea delivered straight to your door!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Hair Brush",
+   "key_features": [
+    "boar bristle mix",
+    "ergonomic handle",
+    "reduces static frizz"
+   ],
+   "price": 15.99,
+   "facts": "Handle is crafted from beechwood and suitable for all hair types including fine hair."
+  },
+  "text": "**Elevate Your Styling Routine with Our Premium Wooden Hair Brush**\n\nDiscover the perfect blend of tradition and innovation with our exquisite **Wooden Hair Brush**, now available for just **$15.99**. Crafted from high-quality **beechwood**, this brush features a reliable **ergonomic handle** designed for a comfortable, effortless grip during your daily styling session.\n\nThe innovative **boar bristle mix** gently detangles while effectively **reducing static and frizz**, leaving your locks looking smooth and healthy. Whether you have thick tresses or **fine hair**, this versatile tool is **suitable for all hair types**, making it an essential addition to any beauty collection. Upgrade your hair care today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Hair Brush",
+   "key_features": [
+    "boar bristle mix",
+    "ergonomic handle",
+    "reduces static frizz"
+   ],
+   "price": 15.99,
+   "facts": "Handle is crafted from beechwood and suitable for all hair types including fine hair."
+  },
+  "text": "**Premium Wooden Hair Brush - $15.99**\n\nElevate your daily grooming routine with our high-quality **Wooden Hair Brush**, expertly crafted from premium **beechwood** for a smooth, durable finish. Designed with an **ergonomic handle**, this brush ensures a comfortable grip, making it perfect for all hair types, including those with **fine hair**.\n\nFeaturing a luxurious **boar bristle mix**, our brush gently detangles while effectively **reducing static and frizz**, leaving your strands looking shiny and healthy. At just **$15.99**, it's the ideal investment for smooth, manageable hair every day. Add to cart now!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Hair Brush",
+   "key_features": [
+    "boar bristle mix",
+    "ergonomic handle",
+    "reduces static frizz"
+   ],
+   "price": 15.99,
+   "facts": "Handle is crafted from beechwood and suitable for all hair types including fine hair."
+  },
+  "text": "**Experience Luxurious Smoothness with Our Premium Wooden Hair Brush**\n\nTransform your daily grooming routine with our expertly crafted **Wooden Hair Brush**, now available for just **$15.99**. Designed with a high-quality **boar bristle mix** and a premium **beechwood handle**, this brush is the perfect solution for anyone seeking to tame frizz and eliminate static. Its innovative **ergonomic handle** ensures a comfortable grip, while its gentle design makes it ideal for **all hair types**, including delicate **fine hair**. Upgrade your collection today and enjoy healthier, shinier hair with every stroke!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 1
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Hair Brush",
+   "key_features": [
+    "boar bristle mix",
+    "ergonomic handle",
+    "reduces static frizz"
+   ],
+   "price": 15.99,
+   "facts": "Handle is crafted from beechwood and suitable for all hair types including fine hair."
+  },
+  "text": "**Experience Premium Care with Our Premium Wooden Hair Brush**\n\nTransform your daily routine with our exquisite **Wooden Hair Brush**, designed to deliver salon-quality results right in your home. Crafted from premium **beechwood**, this brush features a reliable **ergonomic handle** that ensures a comfortable grip for effortless styling.\n\nIts specialized **boar bristle mix** is engineered to gently distribute natural oils, effectively **reducing static and frizz** for smoother, shinier hair. Perfectly suited for **all hair types, including fine hair**, this reliable tool is available now for just **$15.99**. Upgrade your grooming essentials today!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Chain Lubricant",
+   "key_features": [
+    "4 oz bottle",
+    "waterproof formula",
+    "precision applicator tip"
+   ],
+   "price": 8.25,
+   "facts": "Reduces friction and prevents rust on bicycle drivetrains."
+  },
+  "text": "**Keep Your Ride Smooth with Our Premium Bike Chain Lubricant!**\n\nProtect your bicycle's drivetrain with our reliable **Bike Chain Lubricant**, specifically engineered to **reduce friction and prevent rust** for long-lasting performance. This trusted **4 oz bottle** features a convenient **precision applicator tip**, ensuring you deliver the right amount of **waterproof formula** directly where it's needed without making a mess.\n\nDon't let a dull chain slow you down\u2014get premium protection today for just **$8.25**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Chain Lubricant",
+   "key_features": [
+    "4 oz bottle",
+    "waterproof formula",
+    "precision applicator tip"
+   ],
+   "price": 8.25,
+   "facts": "Reduces friction and prevents rust on bicycle drivetrains."
+  },
+  "text": "**Keep Your Bike Running Smoothly with Our Premium Bike Chain Lubricant!**\n\nEnsure your bicycle drivetrain stays in top condition with our reliable **Bike Chain Lubricant**. This **4 oz bottle** features an innovative **waterproof formula** designed to **reduce friction** and effectively **prevent rust**, keeping your chain efficient even in wet conditions. The convenient **precision applicator tip** allows for easy, targeted application every time.\n\n**Price: $8.25**\n*Add to cart now and maintain your bike's peak performance!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Chain Lubricant",
+   "key_features": [
+    "4 oz bottle",
+    "waterproof formula",
+    "precision applicator tip"
+   ],
+   "price": 8.25,
+   "facts": "Reduces friction and prevents rust on bicycle drivetrains."
+  },
+  "text": "**Keep Your Bike Running Smoothly with Our Premium Bike Chain Lubricant!**\n\nMaintain peak performance and extend the life of your bicycle drivetrain with this reliable **4 oz bottle** of high-quality lubricant. Engineered with an advanced **waterproof formula**, it ensures long-lasting protection against the elements, while the innovative **precision applicator tip** delivers oil exactly where it's needed to minimize waste and mess.\n\nTrusted to **reduce friction** and effectively **prevent rust**, this lubricant is the essential solution for cyclists who demand reliable gear care.\n\n**Price: $8.25**\n*Add to cart today and get back on the road with confidence!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Chain Lubricant",
+   "key_features": [
+    "4 oz bottle",
+    "waterproof formula",
+    "precision applicator tip"
+   ],
+   "price": 8.25,
+   "facts": "Reduces friction and prevents rust on bicycle drivetrains."
+  },
+  "text": "**Keep Your Ride Smooth and Rust-Free with Our Premium Bike Chain Lubricant!**\n\nMaintain peak performance on every mile with this reliable **4 oz bottle** of high-quality lubricant. Designed for durability, our **waterproof formula** ensures long-lasting protection against the elements, while the included **precision applicator tip** allows for easy, targeted application directly onto your drivetrain.\n\nExperience superior maintenance that effectively **reduces friction** and **prevents rust**, keeping your bicycle running efficiently no matter the weather.\n\n**Price: $8.25**\n*Add to cart now and ensure your chain stays in top shape!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Wheat Pasta",
+   "key_features": [
+    "high fiber content",
+    "bronze cut texture",
+    "box of pasta"
+   ],
+   "price": 3.49,
+   "facts": "16-ounce box of penne pasta made from 100 percent whole wheat durum flour."
+  },
+  "text": "**Upgrade Your Meal with Premium Whole Wheat Pasta!**\n\nDiscover the perfect balance of nutrition and flavor with our **16-ounce box of penne pasta**, crafted from **100 percent whole wheat durum flour**. This premium **bronze cut texture** ensures every strand offers a deliciously authentic bite, while the impressive **high fiber content** supports your daily wellness goals.\n\nPacked at an affordable **$3.49**, this reliable staple is ready to elevate your favorite sauces and recipes. Add this nutritious favorite to your cart today!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 0,
+   "keyword_stuffing": true,
+   "wrong_facts": 1
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 7,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 1
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Wheat Pasta",
+   "key_features": [
+    "high fiber content",
+    "bronze cut texture",
+    "box of pasta"
+   ],
+   "price": 3.49,
+   "facts": "16-ounce box of penne pasta made from 100 percent whole wheat durum flour."
+  },
+  "text": "**Premium Whole Wheat Penne Pasta \u2013 High Fiber & Bronze Cut**\n\nElevate your meal with our delicious **16-ounce box of penne pasta**, crafted from **100% whole wheat durum flour**. This premium selection features a superior **bronze cut texture** that ensures a perfectly al dente bite every time, while its exceptional **high fiber content** makes it a nutritious choice for your family.\n\n**Price: $3.49**\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Wheat Pasta",
+   "key_features": [
+    "high fiber content",
+    "bronze cut texture",
+    "box of pasta"
+   ],
+   "price": 3.49,
+   "facts": "16-ounce box of penne pasta made from 100 percent whole wheat durum flour."
+  },
+  "text": "**Premium 100% Whole Wheat Penne Pasta \u2013 Only $3.49!**\n\nUpgrade your meal routine with our high-quality **Whole Wheat Pasta**, now available in a convenient **16-ounce box of penne**. Crafted from **100 percent whole wheat durum flour**, this pasta boasts an exceptional **bronze cut texture** that ensures perfect al dente results every time. Packed with **high fiber content**, it's the nutritious and delicious choice for health-conscious families looking for a reliable pantry staple. Add this versatile box to your cart today for just **$3.49**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Wheat Pasta",
+   "key_features": [
+    "high fiber content",
+    "bronze cut texture",
+    "box of pasta"
+   ],
+   "price": 3.49,
+   "facts": "16-ounce box of penne pasta made from 100 percent whole wheat durum flour."
+  },
+  "text": "**Premium Whole Wheat Penne Pasta**\n\nUpgrade your meal prep with our **Whole Wheat Pasta**, crafted from **100 percent whole wheat durum flour**. This **16-ounce box of penne pasta** features a superior **bronze cut texture** that ensures every bite is perfectly al dente and holds sauces beautifully. Packed with **high fiber content**, it's the ideal nutritious choice for a delicious and wholesome dinner.\n\n**Price: $3.49**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Nonstick Frying Pan",
+   "key_features": [
+    "even heat distribution",
+    "oven safe handle",
+    "10 inch diameter"
+   ],
+   "price": 22.5,
+   "facts": "Constructed with an aluminum core and a durable nonstick coating rated for up to 500 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Cooking with Our Premium Nonstick Frying Pan!**\n\nExperience superior performance with our reliable **Nonstick Frying Pan**, perfect for everyday meals. Featuring a high-quality **aluminum core**, this pan ensures excellent **even heat distribution** for consistent, delicious results every time. The included **oven-safe handle** offers added convenience, allowing you to finish your dish in the oven with confidence.\n\nCrafted with a durable **nonstick coating rated for up to 500 degrees Fahrenheit**, this reliable cookware is built to last. With a perfect **10-inch diameter**, it fits ideal portions for eggs, pancakes, and more.\n\n**Price: $22.50**\n*Add to cart now and start cooking with ease!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Nonstick Frying Pan",
+   "key_features": [
+    "even heat distribution",
+    "oven safe handle",
+    "10 inch diameter"
+   ],
+   "price": 22.5,
+   "facts": "Constructed with an aluminum core and a durable nonstick coating rated for up to 500 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Cooking with Our Premium Nonstick Frying Pan!**\n\nExperience flawless results in the kitchen with this reliable **10-inch Nonstick Frying Pan**, now available for just **$22.50**. Engineered with a high-quality **aluminum core**, it ensures superior **even heat distribution** for consistent cooking every time. The innovative **durable nonstick coating** is rated for temperatures up to **500 degrees Fahrenheit**, while the convenient **oven-safe handle** allows you to seamlessly transition from stovetop to oven. Don't miss out on this essential kitchen tool\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Nonstick Frying Pan",
+   "key_features": [
+    "even heat distribution",
+    "oven safe handle",
+    "10 inch diameter"
+   ],
+   "price": 22.5,
+   "facts": "Constructed with an aluminum core and a durable nonstick coating rated for up to 500 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Cooking with Our Premium Nonstick Frying Pan!**\n\nExperience flawless cooking results with this reliable **10-inch Nonstick Frying Pan**, perfect for everything from sunny-side-up eggs to crispy pancakes. Engineered with a high-quality **aluminum core**, it ensures superior **even heat distribution** for consistent performance every time. The innovative **durable nonstick coating**, rated for up to **500 degrees Fahrenheit**, makes cleanup a breeze while delivering professional-grade results. Plus, the convenient **oven-safe handle** allows you to finish your meal directly in the oven with ease.\n\nDon't miss out on this exceptional value\u2014grab yours today for just **$22.50**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Nonstick Frying Pan",
+   "key_features": [
+    "even heat distribution",
+    "oven safe handle",
+    "10 inch diameter"
+   ],
+   "price": 22.5,
+   "facts": "Constructed with an aluminum core and a durable nonstick coating rated for up to 500 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Cooking Game with Our Premium Nonstick Frying Pan!**\n\nExperience flawless results every time you cook with this reliable **10-inch Nonstick Frying Pan**, perfect for everything from delicate eggs to crispy pancakes. Engineered with a high-quality **aluminum core**, it ensures superior **even heat distribution** for consistent cooking without hot spots.\n\nThe innovative **oven-safe handle** allows you to seamlessly transfer your pan to the oven or broiler, while the trusted **durable nonstick coating** is rated for use up to **500 degrees Fahrenheit**, guaranteeing both safety and longevity.\n\nGet this fantastic kitchen essential today for just **$22.50**!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Garden Kneeler Seat",
+   "key_features": [
+    "foam cushion pad",
+    "foldable steel frame",
+    "dual-purpose seat design"
+   ],
+   "price": 27.5,
+   "facts": "Folds flat for storage and includes side pockets for small tools."
+  },
+  "text": "**Transform Your Gardening Experience with Our Premium Garden Kneeler Seat!**\n\nSay goodbye to uncomfortable kneeling on hard soil and hello to efficient gardening with our reliable **Garden Kneeler Seat**. Designed with a comfortable **foam cushion pad**, this dual-purpose seat provides the perfect blend of support and stability whether you're sitting to work or kneeling to plant.\n\nCrafted from a durable **foldable steel frame**, it ensures long-lasting performance while saving space with its ability to **fold flat for storage**. Plus, the built-in **side pockets** keep your small tools and essentials within easy reach.\n\nDon't wait to upgrade your garden toolkit\u2014get yours today for just **$27.50**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Garden Kneeler Seat",
+   "key_features": [
+    "foam cushion pad",
+    "foldable steel frame",
+    "dual-purpose seat design"
+   ],
+   "price": 27.5,
+   "facts": "Folds flat for storage and includes side pockets for small tools."
+  },
+  "text": "**Transform Your Gardening Experience with Our Premium Garden Kneeler Seat!**\n\nMake every planting session comfortable and efficient with this reliable **Garden Kneeler Seat**. Designed with a plush **foam cushion pad**, it provides essential support for your knees, while the sturdy **foldable steel frame** ensures long-lasting durability without compromising on portability.\n\nThis innovative **dual-purpose seat design** lets you kneel comfortably or sit down for a well-deserved rest, all while utilizing the convenient **side pockets to keep your small tools** within easy reach. Best of all, it **folds flat for storage**, making it perfect for small spaces or seasonal packing.\n\nDon't let gardening discomfort slow you down\u2014get yours today for just **$27.50**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Garden Kneeler Seat",
+   "key_features": [
+    "foam cushion pad",
+    "foldable steel frame",
+    "dual-purpose seat design"
+   ],
+   "price": 27.5,
+   "facts": "Folds flat for storage and includes side pockets for small tools."
+  },
+  "text": "**Transform Your Gardening Experience with Our Premium Garden Kneeler Seat!**\n\nSay goodbye to sore knees and hello to comfortable gardening hours. Our reliable **Garden Kneeler Seat** combines ergonomic design with practical functionality, featuring a plush **foam cushion pad** that provides superior comfort whether you are kneeling or sitting. Built on a sturdy **foldable steel frame**, this reliable tool ensures long-lasting durability while effortlessly **folding flat** for convenient storage in your shed or garage.\n\nDesigned with a smart **dual-purpose seat design**, it serves as both a comfortable kneeler and a stable stool. Plus, the convenient **side pockets** keep your small tools and essentials right at your fingertips. Don't miss out on this essential gardening companion\u2014grab yours today for just **$27.50**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Garden Kneeler Seat",
+   "key_features": [
+    "foam cushion pad",
+    "foldable steel frame",
+    "dual-purpose seat design"
+   ],
+   "price": 27.5,
+   "facts": "Folds flat for storage and includes side pockets for small tools."
+  },
+  "text": "**Transform Your Gardening Experience with Our Premium Garden Kneeler Seat!**\n\nSay goodbye to uncomfortable kneeling and back strain with our reliable **Garden Kneeler Seat**. Designed with a plush **foam cushion pad**, this innovative **dual-purpose seat design** offers maximum comfort whether you're sitting to rest or kneeling to plant. The sturdy **foldable steel frame** ensures long-lasting durability while allowing you to easily collapse the unit for compact **storage** when not in use. Plus, convenient **side pockets** keep your small tools and essentials right at your fingertips.\n\n**Price: $27.50**\n*Add to cart today and elevate your gardening routine!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Resistance Bands Set",
+   "key_features": [
+    "five resistance levels",
+    "door anchor included",
+    "portable mesh bag"
+   ],
+   "price": 18.0,
+   "facts": "Set includes bands ranging from 10 to 50 pounds of resistance plus two foam handles."
+  },
+  "text": "**Transform Your Workout Anywhere with Our Premium Adjustable Resistance Bands Set!**\n\nTake your fitness to the next level with this reliable and versatile **Adjustable Resistance Bands Set**, perfect for home gyms, travel, or outdoor training. This comprehensive kit features **five distinct resistance levels** ranging from **10 to 50 pounds**, ensuring there is the perfect challenge for every muscle group and fitness journey.\n\nEquipped with durable **two foam handles** for a comfortable grip and a reliable **door anchor included** to expand your exercise possibilities, this set adapts to any routine. Everything you need is neatly organized in a convenient **portable mesh bag**, making it easy to pack and carry your gear on the go.\n\nDon't miss out on this incredible value\u2014get started today for just **$18.0**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 0,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Resistance Bands Set",
+   "key_features": [
+    "five resistance levels",
+    "door anchor included",
+    "portable mesh bag"
+   ],
+   "price": 18.0,
+   "facts": "Set includes bands ranging from 10 to 50 pounds of resistance plus two foam handles."
+  },
+  "text": "**Transform Your Workout Anywhere with Our Premium Adjustable Resistance Bands Set!**\n\nUnlock your full potential with this versatile **Adjustable Resistance Bands Set**, perfect for home gyms, travel, or outdoor training. This reliable kit features **five distinct resistance levels**, ranging from **10 to 50 pounds**, allowing you to customize your intensity and track your progress effectively.\n\nComplete with **two comfortable foam handles** and a sturdy **door anchor**, these bands offer a full-body workout experience that mimics traditional gym equipment. Stay organized and carry your gear effortlessly with the included **portable mesh bag**.\n\nDon't wait to start your fitness journey\u2014get yours today for just **$18.00**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Resistance Bands Set",
+   "key_features": [
+    "five resistance levels",
+    "door anchor included",
+    "portable mesh bag"
+   ],
+   "price": 18.0,
+   "facts": "Set includes bands ranging from 10 to 50 pounds of resistance plus two foam handles."
+  },
+  "text": "**Upgrade Your Home Workout with Our Premium Adjustable Resistance Bands Set!**\n\nTransform any space into a powerful gym with this high-quality **Adjustable Resistance Bands Set**, now available for just **$18.0**. Designed for versatility and convenience, this set features **five distinct resistance levels**, ranging from **10 to 50 pounds**, ensuring you can effectively target every muscle group as your strength progresses.\n\nThe kit includes professional-grade **two foam handles** for a comfortable grip and a reliable **door anchor** to expand your exercise possibilities. Everything you need is neatly stored in a durable **portable mesh bag**, making it easy to take your fitness routine on the go. Start your journey to stronger muscles today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Resistance Bands Set",
+   "key_features": [
+    "five resistance levels",
+    "door anchor included",
+    "portable mesh bag"
+   ],
+   "price": 18.0,
+   "facts": "Set includes bands ranging from 10 to 50 pounds of resistance plus two foam handles."
+  },
+  "text": "**Unlock Your Fitness Potential with Our Premium Adjustable Resistance Bands Set!**\n\nTransform your home or travel workout into an effective strength-training session with our reliable **Adjustable Resistance Bands Set**. Designed for versatility and durability, this comprehensive kit features **five distinct resistance levels**, allowing you to seamlessly progress from **10 to 50 pounds** of tension. \n\nThe set includes premium **two foam handles** for a comfortable, secure grip, ensuring you can focus entirely on your form. Get ready for convenient workouts anywhere with the included **door anchor** and a stylish, durable **portable mesh bag**. Perfect for home gyms, outdoor adventures, or travel, this high-quality equipment is now available for just **$18.0**.\n\n**Add to Cart today and start building strength on the go!**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Repair Tool Kit",
+   "key_features": [
+    "compact multi-tool",
+    "tire lever included",
+    "mini pump attachment"
+   ],
+   "price": 23.49,
+   "facts": "Comes in a zippered pouch that mounts under the bike seat with velcro straps."
+  },
+  "text": "**Keep Your Ride Ready with Our Premium Bike Repair Tool Kit!**\n\nNever get stranded on the road again with this reliable **Bike Repair Tool Kit**, now available for just **$23.49**. Designed for the modern cyclist, this set features a durable **compact multi-tool** and essential accessories like a **tire lever** and a convenient **mini pump attachment** to handle any roadside repair quickly.\n\nBest of all, it comes packaged in a high-quality **zippered pouch** that securely mounts under your bike seat using reliable **velcro straps**, ensuring all your gear stays organized and within easy reach whenever you need it. Upgrade your cycling experience today!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Repair Tool Kit",
+   "key_features": [
+    "compact multi-tool",
+    "tire lever included",
+    "mini pump attachment"
+   ],
+   "price": 23.49,
+   "facts": "Comes in a zippered pouch that mounts under the bike seat with velcro straps."
+  },
+  "text": "**Keep Your Ride Running Smoothly with Our Premium Bike Repair Tool Kit!**\n\nNever be stranded on the road again. This reliable **Bike Repair Tool Kit** features a durable **compact multi-tool** and includes essential accessories like a **tire lever** and a **mini pump attachment** to handle any minor roadside emergencies. Designed for convenience, the kit arrives in a high-quality **zippered pouch** equipped with **velcro straps** that securely mount under your bike seat.\n\n**Price: $23.49**\n*Add to cart now and stay ready for your next adventure!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Repair Tool Kit",
+   "key_features": [
+    "compact multi-tool",
+    "tire lever included",
+    "mini pump attachment"
+   ],
+   "price": 23.49,
+   "facts": "Comes in a zippered pouch that mounts under the bike seat with velcro straps."
+  },
+  "text": "**Keep Your Ride Rolling with Our Premium Bike Repair Tool Kit!**\n\nNever get stuck on the side of the road again with this reliable **Bike Repair Tool Kit**, now available for just **$23.49**. Designed for the everyday cyclist, this set includes a durable **compact multi-tool**, a sturdy **tire lever**, and a convenient **mini pump attachment** to handle all your basic maintenance needs on the go.\n\nBest of all, it comes packaged in a premium **zippered pouch** that easily **mounts under your bike seat using reliable velcro straps**, ensuring your essentials are always secure and within reach. Upgrade your cycling experience today with this essential gear!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 4,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Bike Repair Tool Kit",
+   "key_features": [
+    "compact multi-tool",
+    "tire lever included",
+    "mini pump attachment"
+   ],
+   "price": 23.49,
+   "facts": "Comes in a zippered pouch that mounts under the bike seat with velcro straps."
+  },
+  "text": "**Keep Your Ride Going with Our Premium Bike Repair Tool Kit!**\n\nNever get stuck on the roadside without proper equipment again. This reliable **Bike Repair Tool Kit** is perfect for both casual cyclists and serious enthusiasts, offering everything you need for quick fixes on the go.\n\nThe set includes a durable **compact multi-tool** and a reliable **tire lever** to handle flats and adjustments effortlessly. Plus, the convenient **mini pump attachment** ensures you can inflate your tires anytime, anywhere. Designed with convenience in mind, it comes neatly packaged in a **zippered pouch** that securely mounts under your bike seat using sturdy **velcro straps**, keeping your tools organized and easily accessible.\n\nDon't let a mechanical issue ruin your ride\u2014grab this essential kit today for just **$23.49**!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 4,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Daily Moisturizing Lotion",
+   "key_features": [
+    "24 hour hydration",
+    "non-greasy texture",
+    "dermatologist tested formula"
+   ],
+   "price": 11.99,
+   "facts": "Comes in a 12-ounce pump bottle with shea butter and vitamin E as key ingredients."
+  },
+  "text": "**Revitalize Your Skin with Our Premium Daily Moisturizing Lotion**\n\nDiscover the perfect balance of efficacy and comfort with our **Daily Moisturizing Lotion**, now available for just **$11.99**. Designed for your everyday routine, this reliable formula delivers essential **24-hour hydration** to keep your skin soft and supple all day long.\n\nCrafted with a premium **non-greasy texture**, it absorbs quickly without leaving a sticky residue, making it ideal for any skin type. You can trust our **dermatologist-tested formula**, which is enriched with nourishing **shea butter and vitamin E** to deeply condition and protect your skin barrier.\n\nEnjoy reliable moisture in our convenient **12-ounce pump bottle**\u2014the perfect addition to your self-care regimen. Add to cart today and experience the difference!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Daily Moisturizing Lotion",
+   "key_features": [
+    "24 hour hydration",
+    "non-greasy texture",
+    "dermatologist tested formula"
+   ],
+   "price": 11.99,
+   "facts": "Comes in a 12-ounce pump bottle with shea butter and vitamin E as key ingredients."
+  },
+  "text": "**Revitalize Your Skin with Our Premium Daily Moisturizing Lotion!**\n\nExperience all-day comfort with our trusted **Daily Moisturizing Lotion**, engineered to deliver reliable **24-hour hydration** without leaving your skin feeling heavy or sticky. Thanks to our innovative **non-greasy texture**, this lotion absorbs quickly, making it perfect for any time of day.\n\nFormulated with a reliable **dermatologist-tested formula**, we ensure gentle care for your skin. Each **12-ounce pump bottle** is enriched with nourishing **shea butter and vitamin E** to keep your skin soft, supple, and protected.\n\n**Price: $11.99**\n*Add to cart now and embrace healthy, hydrated skin!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Daily Moisturizing Lotion",
+   "key_features": [
+    "24 hour hydration",
+    "non-greasy texture",
+    "dermatologist tested formula"
+   ],
+   "price": 11.99,
+   "facts": "Comes in a 12-ounce pump bottle with shea butter and vitamin E as key ingredients."
+  },
+  "text": "**Revitalize Your Skin with Our Premium Daily Moisturizing Lotion**\n\nKeep your skin feeling soft, supple, and radiant all day long with our trusted **Daily Moisturizing Lotion**. Designed for everyday use, this reliable formula delivers deep **24-hour hydration** to lock in moisture without leaving a sticky residue, thanks to its beloved **non-greasy texture**.\n\nEnriched with premium **shea butter and vitamin E**, this **dermatologist-tested formula** gently nourishes your skin while protecting it from environmental stressors. Available in a convenient **12-ounce pump bottle**, it offers efficient dispensing for your morning and evening routines.\n\nDon't miss out on this essential skincare staple! Grab yours today for just **$11.99**.\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 1,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Daily Moisturizing Lotion",
+   "key_features": [
+    "24 hour hydration",
+    "non-greasy texture",
+    "dermatologist tested formula"
+   ],
+   "price": 11.99,
+   "facts": "Comes in a 12-ounce pump bottle with shea butter and vitamin E as key ingredients."
+  },
+  "text": "**Revitalize Your Skin with Our Premium Daily Moisturizing Lotion**\n\nKeep your skin radiant and healthy all day long with our trusted **Daily Moisturizing Lotion**, now available for just **$11.99**. Designed for everyday use, this reliable formula delivers **24-hour hydration** to lock in moisture without leaving behind a sticky residue. Thanks to its **non-greasy texture**, it absorbs quickly into the skin, making it perfect for any routine.\n\nCrafted with a **dermatologist-tested formula**, this 12-ounce pump bottle is enriched with nourishing **shea butter and vitamin E** to deeply condition and protect your skin. Experience the perfect balance of comfort and efficacy with every pump!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Leaf Rake 24 Inch",
+   "key_features": [
+    "poly tine construction",
+    "lightweight aluminum handle",
+    "wide sweep design"
+   ],
+   "price": 11.25,
+   "facts": "Handle length is 54 inches, suitable for lawns and garden cleanup."
+  },
+  "text": "**Effortless Garden Cleanup with Our Premium Leaf Rake 24 Inch!**\n\nTransform your yard maintenance routine with this reliable **Leaf Rake 24 Inch**, perfect for efficient lawn and garden cleanup. Featuring durable **poly tine construction** and a premium **lightweight aluminum handle**, this rake ensures smooth performance without the strain. Its innovative **wide sweep design** allows you to gather leaves and debris quickly and effectively.\n\nWith a total **handle length of 54 inches**, you'll enjoy extended reach and superior control. Grab this high-quality tool today for just **$11.25** and make your gardening chores a breeze!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Leaf Rake 24 Inch",
+   "key_features": [
+    "poly tine construction",
+    "lightweight aluminum handle",
+    "wide sweep design"
+   ],
+   "price": 11.25,
+   "facts": "Handle length is 54 inches, suitable for lawns and garden cleanup."
+  },
+  "text": "**Effortlessly Clear Your Garden with Our Premium 24 Inch Leaf Rake!**\n\nUpgrade your yard maintenance routine with this reliable **Leaf Rake 24 Inch**, designed for maximum efficiency and comfort. Featuring durable **poly tine construction**, this rake ensures long-lasting performance on both dry and wet leaves without bending or breaking. The ergonomic **lightweight aluminum handle** (totaling 54 inches in length) provides a secure grip and reduces strain during extended use, making it perfect for **lawns and garden cleanup**.\n\nIts innovative **wide sweep design** allows you to cover more ground in fewer strokes, saving you time and energy. At an unbeatable price of just **$11.25**, this is the essential tool every homeowner needs for a tidy outdoor space. Add it to your cart today!\n",
+  "claude": {
+   "quality": 5,
+   "unsupported_claims": 4,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Leaf Rake 24 Inch",
+   "key_features": [
+    "poly tine construction",
+    "lightweight aluminum handle",
+    "wide sweep design"
+   ],
+   "price": 11.25,
+   "facts": "Handle length is 54 inches, suitable for lawns and garden cleanup."
+  },
+  "text": "**Effortless Garden Cleanup with Our Premium Leaf Rake 24 Inch**\n\nTackle your fall and spring yard maintenance with confidence using our reliable **Leaf Rake 24 Inch**. Engineered for maximum efficiency, this rake features durable **poly tine construction** that resists bending and ensures a clean sweep every time. The **lightweight aluminum handle** provides superior comfort during extended use, while the innovative **wide sweep design** allows you to cover more ground in fewer passes.\n\nWith a total **handle length of 54 inches**, this rake is perfectly suited for clearing leaves and debris from **lawns and general garden cleanup**. Get the job done faster and easier for just **$11.25**\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Leaf Rake 24 Inch",
+   "key_features": [
+    "poly tine construction",
+    "lightweight aluminum handle",
+    "wide sweep design"
+   ],
+   "price": 11.25,
+   "facts": "Handle length is 54 inches, suitable for lawns and garden cleanup."
+  },
+  "text": "**Effortless Garden Cleanup with Our Premium 24\" Leaf Rake**\n\nKeep your lawn and garden tidy with reliable ease using our top-quality **Leaf Rake 24 Inch**. Designed for maximum efficiency, this rake features a durable **poly tine construction** that won't bend or break, paired with a sleek **lightweight aluminum handle** for comfortable handling. Its innovative **wide sweep design** allows you to gather leaves and debris quickly, while the premium **54-inch handle length** ensures perfect leverage for all your outdoor projects.\n\nDon't settle for less\u2014get reliable performance today for just **$11.25**!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 6,
+   "unsupported_claims": 1,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Brown Rice",
+   "key_features": [
+    "whole grain nutrition",
+    "non-gmo verified",
+    "resealable bag"
+   ],
+   "price": 6.99,
+   "facts": "2-pound bag of long-grain brown rice grown using organic farming practices."
+  },
+  "text": "**Premium Organic Brown Rice \u2013 Whole Grain Nutrition You Can Trust**\n\nElevate your meal prep with our high-quality **Organic Brown Rice**, a reliable staple grown using sustainable organic farming practices. This **2-pound bag of long-grain brown rice** offers authentic **whole grain nutrition**, packed with fiber and essential nutrients to support a healthy lifestyle. You can shop with confidence knowing our product is **non-GMO verified**, ensuring pure ingredients for you and your family. Plus, the convenient **resealable bag** keeps your rice fresh and ready whenever inspiration strikes.\n\n**Price: $6.99**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Brown Rice",
+   "key_features": [
+    "whole grain nutrition",
+    "non-gmo verified",
+    "resealable bag"
+   ],
+   "price": 6.99,
+   "facts": "2-pound bag of long-grain brown rice grown using organic farming practices."
+  },
+  "text": "**Premium Organic Brown Rice \u2013 Pure & Natural**\n\nDiscover the wholesome goodness of our **Organic Brown Rice**, a trusted choice for families who prioritize health without compromising on quality. This **2-pound bag** of premium long-grain brown rice is carefully cultivated using sustainable **organic farming practices**, ensuring you receive the highest quality **whole grain nutrition** available.\n\nYou can shop with complete peace of mind knowing our product is **non-GMO verified**, offering a clean and reliable ingredient for your meals. Plus, the convenient **resealable bag** design keeps your rice fresh and easy to store every time.\n\nAdd this essential pantry staple to your cart today for just **$6.99** and start enjoying nature's perfect grain!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 1,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Brown Rice",
+   "key_features": [
+    "whole grain nutrition",
+    "non-gmo verified",
+    "resealable bag"
+   ],
+   "price": 6.99,
+   "facts": "2-pound bag of long-grain brown rice grown using organic farming practices."
+  },
+  "text": "**Premium Organic Brown Rice \u2013 Whole Grain Nutrition You Can Trust**\n\nUpgrade your pantry with our high-quality **Organic Brown Rice**, a nutritious **whole grain** option perfect for healthy meals. Grown using certified **organic farming practices**, this **2-pound bag of long-grain brown rice** is rigorously tested and **non-GMO verified** to ensure purity and flavor in every bite.\n\nConveniently packaged in a reliable **resealable bag** to keep it fresh, this rice is an excellent choice for families seeking wholesome ingredients.\n\n**Price: $6.99**\n\n*Add to cart today and enjoy the taste of nature!*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Brown Rice",
+   "key_features": [
+    "whole grain nutrition",
+    "non-gmo verified",
+    "resealable bag"
+   ],
+   "price": 6.99,
+   "facts": "2-pound bag of long-grain brown rice grown using organic farming practices."
+  },
+  "text": "**Premium Organic Brown Rice \u2013 Whole Grain Perfection**\n\nElevate your meal prep with our high-quality **Organic Brown Rice**, a reliable staple packed with **whole grain nutrition**. Grown using dedicated **organic farming practices**, this **2-pound bag of long-grain brown rice** is **non-GMO verified**, ensuring you get pure, trustworthy ingredients for every dish. The convenient **resealable bag** keeps your rice fresh and ready whenever you need it.\n\nAdd this essential pantry item to your cart today for just **$6.99**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Utensil Set",
+   "key_features": [
+    "heat resistant material",
+    "ergonomic handles",
+    "set of five"
+   ],
+   "price": 18.75,
+   "facts": "Made from natural teak wood, includes a spatula, slotted spoon, ladle, fork, and spoon."
+  },
+  "text": "Elevate your cooking experience with our premium **Wooden Utensil Set**, a reliable companion for every kitchen adventure. Crafted from high-quality **natural teak wood**, this durable set is designed with **heat-resistant material** to safely handle hot pots and pans without warping or cracking. Each piece features comfortable **ergonomic handles** that ensure a secure grip, making stirring, flipping, and serving effortless.\n\nThis convenient **set of five** includes a spatula, slotted spoon, ladle, fork, and spoon, providing everything you need for versatile meal preparation. Available now for just **$18.75**, add this beautifully functional and eco-friendly tool collection to your kitchen today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Utensil Set",
+   "key_features": [
+    "heat resistant material",
+    "ergonomic handles",
+    "set of five"
+   ],
+   "price": 18.75,
+   "facts": "Made from natural teak wood, includes a spatula, slotted spoon, ladle, fork, and spoon."
+  },
+  "text": "**Elevate Your Cooking with Our Premium Wooden Utensil Set**\n\nTransform your kitchen routine with our exquisite **Wooden Utensil Set**, crafted from premium **natural teak wood**. This reliable **set of five** includes a spatula, slotted spoon, ladle, fork, and spoon, all designed with **ergonomic handles** that ensure a comfortable and secure grip during every meal preparation. Thanks to its superior **heat-resistant material**, you can confidently stir, flip, and serve hot dishes without worry.\n\nAdd this durable and stylish collection to your cart today for just **$18.75** and experience the perfect blend of functionality and timeless design.\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Utensil Set",
+   "key_features": [
+    "heat resistant material",
+    "ergonomic handles",
+    "set of five"
+   ],
+   "price": 18.75,
+   "facts": "Made from natural teak wood, includes a spatula, slotted spoon, ladle, fork, and spoon."
+  },
+  "text": "**Elevate Your Cooking Experience with Our Premium Wooden Utensil Set**\n\nDiscover the perfect blend of durability and comfort with our high-quality **Wooden Utensil Set**, now available for just **$18.75**. Crafted from premium **natural teak wood**, this reliable collection is designed to withstand high temperatures, ensuring your cooking tools remain safe and effective even over hot stovetops.\n\nEach piece in this comprehensive **set of five**\u2014featuring a spatula, slotted spoon, ladle, fork, and spoon\u2014is meticulously designed with **ergonomic handles** for a comfortable, non-slip grip that reduces hand strain during long cooking sessions. Whether you are saut\u00e9ing vegetables or serving a family meal, these beautiful tools add a touch of rustic charm to your kitchen while delivering exceptional performance.\n\nAdd this essential set to your cart today and upgrade your culinary gear!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Wooden Utensil Set",
+   "key_features": [
+    "heat resistant material",
+    "ergonomic handles",
+    "set of five"
+   ],
+   "price": 18.75,
+   "facts": "Made from natural teak wood, includes a spatula, slotted spoon, ladle, fork, and spoon."
+  },
+  "text": "**Upgrade Your Kitchen with Our Premium Wooden Utensil Set!**\n\nCrafted from high-quality **natural teak wood**, this reliable **set of five** is designed to endure even the hottest cooking temperatures, ensuring your tools remain **heat resistant** for every meal. The **ergonomic handles** provide a comfortable, secure grip, making stirring and flipping effortless.\n\nThis versatile collection includes a **spatula, slotted spoon, ladle, fork, and spoon**, perfect for all your culinary adventures.\n\n**Price: $18.75**  \n*Add to cart today and bring natural elegance to your kitchen!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Two Drawer Filing Cabinet",
+   "key_features": [
+    "locking drawer mechanism",
+    "letter and legal size",
+    "rolling caster wheels"
+   ],
+   "price": 95.5,
+   "facts": "Constructed of powder-coated steel measuring 28 inches tall by 15 inches wide."
+  },
+  "text": "**Secure and Organize Your Workspace with Our Premium Two Drawer Filing Cabinet!**\n\nKeep your documents safe and accessible with this reliable **Two Drawer Filing Cabinet**, now available for just **$95.5**. Expertly constructed from durable **powder-coated steel**, this unit measures **28 inches tall by 15 inches wide**, offering a sturdy foundation for your office essentials.\n\nDesigned for maximum versatility, the cabinet features a reliable **locking drawer mechanism** to protect your sensitive files, and spacious drawers that accommodate both **letter and legal size** paper. For effortless mobility, it is equipped with smooth **rolling caster wheels**, allowing you to easily reposition it as needed. Upgrade your storage solutions today with this efficient and secure filing solution!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Two Drawer Filing Cabinet",
+   "key_features": [
+    "locking drawer mechanism",
+    "letter and legal size",
+    "rolling caster wheels"
+   ],
+   "price": 95.5,
+   "facts": "Constructed of powder-coated steel measuring 28 inches tall by 15 inches wide."
+  },
+  "text": "**Secure Your Documents with Our Premium Two Drawer Filing Cabinet**\n\nKeep your office organized and your files safe with our reliable **Two Drawer Filing Cabinet**, now available for just **$95.50**. Built from durable **powder-coated steel**, this cabinet measures **28 inches tall by 15 inches wide**, providing a sturdy foundation for all your storage needs.\n\nDesigned for maximum versatility, it accommodates both **letter and legal size** documents, ensuring your paperwork fits perfectly. For added security and mobility, the unit features a reliable **locking drawer mechanism** and smooth **rolling caster wheels**, making it easy to move and keep your workspace tidy. Upgrade your office storage today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Two Drawer Filing Cabinet",
+   "key_features": [
+    "locking drawer mechanism",
+    "letter and legal size",
+    "rolling caster wheels"
+   ],
+   "price": 95.5,
+   "facts": "Constructed of powder-coated steel measuring 28 inches tall by 15 inches wide."
+  },
+  "text": "**Keep Your Workspace Organized and Secure with Our Premium Two Drawer Filing Cabinet!**\n\nUpgrade your office setup with this reliable **Two Drawer Filing Cabinet**, expertly constructed from durable **powder-coated steel** and measuring **28 inches tall by 15 inches wide**. Designed for versatility, it efficiently accommodates both **letter and legal size** documents, ensuring all your files are within easy reach.\n\nPrioritize security with our advanced **locking drawer mechanism**, giving you peace of mind for storing sensitive information. Mobility is key, so this cabinet comes equipped with smooth **rolling caster wheels** to glide effortlessly across your floor.\n\n**Price: $95.50**\n*Add to cart today and streamline your organization!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Two Drawer Filing Cabinet",
+   "key_features": [
+    "locking drawer mechanism",
+    "letter and legal size",
+    "rolling caster wheels"
+   ],
+   "price": 95.5,
+   "facts": "Constructed of powder-coated steel measuring 28 inches tall by 15 inches wide."
+  },
+  "text": "**Secure and Organize Your Workspace with Our Premium Two Drawer Filing Cabinet!**\n\nKeep your documents safe and accessible with this reliable **Two Drawer Filing Cabinet**, now available for just **$95.5**. Built for durability, this unit is **constructed of powder-coated steel** with sturdy dimensions of **28 inches tall by 15 inches wide**, ensuring it stands strong in any office environment.\n\nDesigned for maximum versatility, the cabinet features a reliable **locking drawer mechanism** to protect your sensitive files, and its spacious drawers accommodate both **letter and legal size** documents. Get around your office effortlessly with smooth **rolling caster wheels**. Don't miss out on this essential storage solution\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Smoked Paprika Powder",
+   "key_features": [
+    "deep smoky flavor",
+    "vibrant red color",
+    "resealable glass jar"
+   ],
+   "price": 6.29,
+   "facts": "3-ounce jar made from oak-smoked and dried red peppers, ground to a fine powder."
+  },
+  "text": "**Elevate Your Dishes with Our Premium Smoked Paprika Powder!**\n\nInfuse your meals with authentic depth using this high-quality **Smoked Paprika Powder**, crafted from premium **oak-smoked and dried red peppers** and ground to a perfectly **fine powder**. Experience the rich, **deep smoky flavor** that transforms simple recipes into culinary masterpieces, while the stunning **vibrant red color** adds an appetizing appeal to your plates.\n\nPerfect for grilling rubs, stews, or finishing sauces, this spice comes in a durable **resealable glass jar** to ensure maximum freshness. Don't miss out on this exceptional value at just **$6.29** for a generous **3-ounce jar**! Add it to your cart today and start cooking with confidence.\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Smoked Paprika Powder",
+   "key_features": [
+    "deep smoky flavor",
+    "vibrant red color",
+    "resealable glass jar"
+   ],
+   "price": 6.29,
+   "facts": "3-ounce jar made from oak-smoked and dried red peppers, ground to a fine powder."
+  },
+  "text": "**Elevate your culinary creations with our premium Smoked Paprika Powder!**\n\nCrafted from carefully oak-smoked and dried red peppers, this authentic blend delivers a rich, **deep smoky flavor** that will transform your dishes from ordinary to extraordinary. The peppers are meticulously **ground to a fine powder**, ensuring a smooth texture and consistent taste with every sprinkle.\n\nNot only does it offer an intense flavor profile, but it also boasts a stunning **vibrant red color** that will make your food pop. For your convenience, this quality spice comes in a durable **resealable glass jar**, perfect for preserving freshness on your kitchen counter.\n\n**Price: $6.29**\n*(3-ounce jar)*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Smoked Paprika Powder",
+   "key_features": [
+    "deep smoky flavor",
+    "vibrant red color",
+    "resealable glass jar"
+   ],
+   "price": 6.29,
+   "facts": "3-ounce jar made from oak-smoked and dried red peppers, ground to a fine powder."
+  },
+  "text": "**Elevate Your Dishes with Premium Smoked Paprika Powder**\n\nAdd a touch of authentic depth to your culinary creations with our high-quality **Smoked Paprika Powder**. Crafted from carefully selected dried red peppers that are slow-smoked over oak wood and ground to a fine powder, this spice delivers a reliable **deep smoky flavor** that transforms soups, stews, rubs, and sauces.\n\nIts **vibrant red color** not only enhances the taste but also adds an appetizing visual appeal to any meal. For your convenience and freshness, the product arrives in a premium **resealable glass jar**, ensuring the spice stays potent and free from moisture.\n\n**Price: $6.29**  \n*(Contains 3 ounces)*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Smoked Paprika Powder",
+   "key_features": [
+    "deep smoky flavor",
+    "vibrant red color",
+    "resealable glass jar"
+   ],
+   "price": 6.29,
+   "facts": "3-ounce jar made from oak-smoked and dried red peppers, ground to a fine powder."
+  },
+  "text": "**Elevate Your Dishes with Premium Smoked Paprika Powder**\n\nInfuse your cooking with authentic depth using our high-quality **Smoked Paprika Powder**. Crafted from premium **oak-smoked and dried red peppers** and ground to a **fine powder**, this spice delivers a rich **deep smoky flavor** that perfectly complements meats, stews, rice dishes, and roasted vegetables.\n\nThe **vibrant red color** it adds will instantly enhance the visual appeal of your meals, while the convenient **resealable glass jar** ensures your spice stays fresh and free from moisture.\n\n**Price:** $6.29  \n*Available in a generous 3-ounce jar.*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Motor Oil Funnel Set",
+   "key_features": [
+    "3 sizes included",
+    "flexible spout design",
+    "spill-proof seal"
+   ],
+   "price": 7.99,
+   "facts": "Made of durable polyethylene, compatible with most vehicle fluid types."
+  },
+  "text": "**Keep Your Engine Clean with Our Premium Motor Oil Funnel Set!**\n\nUpgrade your garage toolkit with our reliable **Motor Oil Funnel Set**, now available for just **$7.99**. Designed for convenience and precision, this set includes **3 sizes** to perfectly fit any bottle or reservoir. The innovative **flexible spout design** ensures easy maneuvering in tight spaces, while the integrated **spill-proof seal** guarantees a mess-free pour every time.\n\nCrafted from high-quality, **durable polyethylene**, these funnels are built to last and are **compatible with most vehicle fluid types**, making them the perfect addition to any mechanic's or DIY enthusiast's collection. Don't wait\u2014add this essential tool to your cart today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Motor Oil Funnel Set",
+   "key_features": [
+    "3 sizes included",
+    "flexible spout design",
+    "spill-proof seal"
+   ],
+   "price": 7.99,
+   "facts": "Made of durable polyethylene, compatible with most vehicle fluid types."
+  },
+  "text": "**Keep Your Garage Clean with Our Premium Motor Oil Funnel Set!**\n\nUpgrade your maintenance routine with our reliable **Motor Oil Funnel Set**, now available for just **$7.99**. This essential kit includes **3 sizes** to perfectly fit any engine or fluid reservoir, ensuring precision every time. The innovative **flexible spout design** allows you to navigate tight spaces with ease, while the reliable **spill-proof seal** guarantees a mess-free pour.\n\nCrafted from **durable polyethylene**, these funnels are built to last and are fully **compatible with most vehicle fluid types**, making them the perfect addition to any DIY enthusiast's toolkit. Order today and experience hassle-free fluid changes!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Motor Oil Funnel Set",
+   "key_features": [
+    "3 sizes included",
+    "flexible spout design",
+    "spill-proof seal"
+   ],
+   "price": 7.99,
+   "facts": "Made of durable polyethylene, compatible with most vehicle fluid types."
+  },
+  "text": "Keep your garage organized and your workspace clean with our premium **Motor Oil Funnel Set**! Designed for convenience and reliability, this kit includes **3 sizes** to perfectly fit any engine, filter, or fluid reservoir. The innovative **flexible spout design** ensures precise pouring, while the reliable **spill-proof seal** guarantees a mess-free experience every time. Crafted from high-quality, **durable polyethylene**, these funnels are safe and compatible with **most vehicle fluid types**. Grab this essential automotive tool today for just **$7.99** and upgrade your maintenance routine!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Motor Oil Funnel Set",
+   "key_features": [
+    "3 sizes included",
+    "flexible spout design",
+    "spill-proof seal"
+   ],
+   "price": 7.99,
+   "facts": "Made of durable polyethylene, compatible with most vehicle fluid types."
+  },
+  "text": "**Keep Your Engine Clean with Our Premium Motor Oil Funnel Set!**\n\nUpgrade your garage toolkit with our reliable **Motor Oil Funnel Set**, now available for just **$7.99**. This high-quality kit includes **3 sizes** to perfectly suit any bottle or engine opening, ensuring a precise pour every time. Designed with an innovative **flexible spout** and a reliable **spill-proof seal**, it makes changing oil and adding fluids effortless and mess-free. Crafted from **durable polyethylene**, this set is **compatible with most vehicle fluid types**, making it the perfect essential for every DIY mechanic and car enthusiast. Add to cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Ceramic Mixing Bowls",
+   "key_features": [
+    "nesting bowl design",
+    "microwave safe",
+    "set of four"
+   ],
+   "price": 29.99,
+   "facts": "Bowls range in size from 1 to 4 quarts and feature a glossy glazed finish."
+  },
+  "text": "**Upgrade Your Kitchen with Our Premium Ceramic Mixing Bowls!**\n\nTransform your cooking and baking experience with our reliable **Ceramic Mixing Bowls**, now available for just **$29.99**. This convenient **set of four** features an innovative **nesting bowl design**, allowing you to save valuable cabinet space while keeping everything organized.\n\nCrafted with a beautiful **glossy glazed finish** and reliable construction, these bowls are perfectly **microwave safe**, making them ideal for everything from mixing ingredients to reheating leftovers. With sizes ranging from **1 to 4 quarts**, this versatile set accommodates every culinary task, from small dips to large batch preparations. Add this high-quality set to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Ceramic Mixing Bowls",
+   "key_features": [
+    "nesting bowl design",
+    "microwave safe",
+    "set of four"
+   ],
+   "price": 29.99,
+   "facts": "Bowls range in size from 1 to 4 quarts and feature a glossy glazed finish."
+  },
+  "text": "**Upgrade Your Kitchen with Our Premium Ceramic Mixing Bowls!**\n\nDiscover the perfect addition to your culinary toolkit with this reliable **set of four** high-quality **ceramic mixing bowls**. Designed with an innovative **nesting bowl design**, these bowls save valuable cabinet space while offering a sleek **glossy glazed finish** that adds a touch of elegance to any countertop.\n\nVersatile and durable, they are fully **microwave safe**, making them ideal for everything from preparing ingredients to reheating meals. With sizes ranging conveniently from **1 to 4 quarts**, this set caters to all your mixing, serving, and storage needs.\n\n**Get this fantastic value for just $29.99!**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Ceramic Mixing Bowls",
+   "key_features": [
+    "nesting bowl design",
+    "microwave safe",
+    "set of four"
+   ],
+   "price": 29.99,
+   "facts": "Bowls range in size from 1 to 4 quarts and feature a glossy glazed finish."
+  },
+  "text": "**Elevate Your Kitchen with Our Premium Ceramic Mixing Bowls!**\n\nUpgrade your cooking experience with our reliable **Ceramic Mixing Bowls**, designed to bring efficiency and style to your culinary adventures. This convenient **set of four** features a practical **nesting bowl design**, allowing for compact storage and easy access to all sizes. Crafted with a beautiful **glossy glazed finish**, these bowls range from **1 to 4 quarts**, making them perfect for everything from small sauces to large family meals. Plus, they are fully **microwave safe** for hassle-free heating.\n\nDon't miss out on this exceptional value\u2014get this high-quality set today for just **$29.99**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Ceramic Mixing Bowls",
+   "key_features": [
+    "nesting bowl design",
+    "microwave safe",
+    "set of four"
+   ],
+   "price": 29.99,
+   "facts": "Bowls range in size from 1 to 4 quarts and feature a glossy glazed finish."
+  },
+  "text": "Elevate your kitchen prep with our premium **Ceramic Mixing Bowls**, a reliable and stylish addition to any home cook's collection. This convenient **set of four** features an innovative **nesting bowl design**, allowing for compact storage and easy organization in your pantry. Crafted with a beautiful **glossy glazed finish**, these bowls are not only visually appealing but also fully **microwave safe**, making them perfect for everything from mixing ingredients to reheating leftovers. With capacities ranging from **1 to 4 quarts**, you'll have the ideal size for any recipe. Grab this versatile set today for just **$29.99**!\n",
+  "claude": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Modern Bookshelf Unit",
+   "key_features": [
+    "five open shelves",
+    "engineered wood material",
+    "easy assembly design"
+   ],
+   "price": 89,
+   "facts": "Measures 60 inches tall by 24 inches wide with a weight capacity of 30 pounds per shelf."
+  },
+  "text": "**Elevate Your Space with Our Premium Modern Bookshelf Unit!**\n\nBring contemporary style and reliable functionality to your home or office with this sleek **Modern Bookshelf Unit**. Crafted from high-quality **engineered wood**, this unit features five spacious **open shelves** perfect for displaying your favorite books, decorative items, or collectibles. Designed with our trusted **easy assembly design**, you'll have it up and running in no time without needing professional help.\n\nWith reliable dimensions of **60 inches tall by 24 inches wide** and a sturdy **weight capacity of 30 pounds per shelf**, it offers both style and durability. Get this versatile storage solution today for just **$89**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Modern Bookshelf Unit",
+   "key_features": [
+    "five open shelves",
+    "engineered wood material",
+    "easy assembly design"
+   ],
+   "price": 89,
+   "facts": "Measures 60 inches tall by 24 inches wide with a weight capacity of 30 pounds per shelf."
+  },
+  "text": "**Elevate Your Living Space with Our Modern Bookshelf Unit!**\n\nBring contemporary style and practical storage to your home with this sleek **Modern Bookshelf Unit**. Crafted from durable **engineered wood**, this reliable piece features **five spacious open shelves** perfect for displaying your favorite books, decor, or collectibles. Designed with an **easy assembly** system, you'll have your new furniture up and running in no time.\n\n**Specifications:**\n*   **Dimensions:** 60 inches tall x 24 inches wide\n*   **Capacity:** Holds up to 30 pounds per shelf\n*   **Price:** Only **$89**\n\nAdd this versatile and stylish unit to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Modern Bookshelf Unit",
+   "key_features": [
+    "five open shelves",
+    "engineered wood material",
+    "easy assembly design"
+   ],
+   "price": 89,
+   "facts": "Measures 60 inches tall by 24 inches wide with a weight capacity of 30 pounds per shelf."
+  },
+  "text": "**Elevate Your Space with Our Premium Modern Bookshelf Unit!**\n\nDesigned to blend seamlessly into any contemporary home, this **Modern Bookshelf Unit** combines sleek aesthetics with reliable functionality. Crafted from high-quality **engineered wood**, it features five spacious **open shelves** perfect for displaying your favorite books, decorative items, or collectibles. The thoughtful **easy assembly design** ensures you can set it up quickly and efficiently without hassle.\n\nWith impressive dimensions of **60 inches tall by 24 inches wide**, this unit offers ample storage while maintaining a balanced footprint. Each shelf is built to support up to **30 pounds**, making it ideal for a wide variety of household needs.\n\n**Get yours today for just $89!**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Modern Bookshelf Unit",
+   "key_features": [
+    "five open shelves",
+    "engineered wood material",
+    "easy assembly design"
+   ],
+   "price": 89,
+   "facts": "Measures 60 inches tall by 24 inches wide with a weight capacity of 30 pounds per shelf."
+  },
+  "text": "**Elevate Your Living Space with Our Premium Modern Bookshelf Unit!**\n\nBring sleek style and practical storage to your home with this **Modern Bookshelf Unit**, crafted from durable **engineered wood** to ensure longevity and a polished look. Featuring **five spacious open shelves**, this versatile piece is perfect for displaying your favorite books, decorative items, or collectibles. Designed with our signature **easy assembly design**, you'll have it set up in no time without needing specialized tools.\n\nReliable and sturdy, each shelf supports up to **30 pounds**, making it ideal for heavy media or lightweight decor. With dimensions of **60 inches tall by 24 inches wide**, it fits perfectly in living rooms, bedrooms, or home offices.\n\n**Grab yours today for just $89!**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Large Conference Table",
+   "key_features": [
+    "seats eight people",
+    "laminate wood top",
+    "cable grommet holes"
+   ],
+   "price": 459,
+   "facts": "Measures 96 by 42 inches and includes metal legs with adjustable levelers."
+  },
+  "text": "**Elevate Your Meetings with Our Premium Large Conference Table**\n\nTransform your workspace into a professional hub with this reliable **Large Conference Table**, now available for just **$459**. Designed to comfortably **seat eight people**, this table features a durable **laminate wood top** that combines style with everyday resilience. Practicality is built-in with convenient **cable grommet holes** to keep your wiring organized and your presentation seamless.\n\nWith precise dimensions of **96 by 42 inches** and sturdy **metal legs equipped with adjustable levelers**, this table ensures a stable and polished foundation for your team's most important discussions. Don't miss out on this essential addition to your office today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Large Conference Table",
+   "key_features": [
+    "seats eight people",
+    "laminate wood top",
+    "cable grommet holes"
+   ],
+   "price": 459,
+   "facts": "Measures 96 by 42 inches and includes metal legs with adjustable levelers."
+  },
+  "text": "**Elevate Your Meeting Space with Our Premium Large Conference Table**\n\nPerfect for collaborative brainstorming and professional discussions, this reliable **Large Conference Table** comfortably **seats eight people** with its spacious **96 by 42-inch** design. Crafted with a durable **laminate wood top**, it offers both style and longevity for any office environment. The thoughtful inclusion of **cable grommet holes** ensures your workspace stays organized and clutter-free. Built on sturdy **metal legs with adjustable levelers**, this table provides a stable foundation for every important meeting.\n\n**Price: $459**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Large Conference Table",
+   "key_features": [
+    "seats eight people",
+    "laminate wood top",
+    "cable grommet holes"
+   ],
+   "price": 459,
+   "facts": "Measures 96 by 42 inches and includes metal legs with adjustable levelers."
+  },
+  "text": "**Elevate Your Meeting Space with Our Premium Large Conference Table**\n\nDesigned for modern collaboration, this reliable **Large Conference Table** offers a professional foundation for your team's most important discussions. Crafted with a durable **laminate wood top**, it combines timeless style with everyday resilience, while the integrated **cable grommet holes** ensure your technology stays organized and clutter-free.\n\nPerfectly sized to comfortably **seat eight people**, the table features robust **metal legs with adjustable levelers** to guarantee perfect stability on any floor. With impressive dimensions of **96 by 42 inches**, it provides ample workspace for notes, laptops, and presentation materials.\n\n**Price: $459**\n*Add to cart today and transform your office setup!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Large Conference Table",
+   "key_features": [
+    "seats eight people",
+    "laminate wood top",
+    "cable grommet holes"
+   ],
+   "price": 459,
+   "facts": "Measures 96 by 42 inches and includes metal legs with adjustable levelers."
+  },
+  "text": "**Elevate Your Meetings with Our Premium Large Conference Table**\n\nTransform your workspace with our reliable **Large Conference Table**, designed to comfortably **seat eight people** for productive discussions and collaborative brainstorming sessions. Crafted with a durable **laminate wood top**, this table combines modern aesthetics with long-lasting functionality. \n\nMeasuring **96 by 42 inches**, it offers ample surface area for laptops, documents, and refreshments. The practical design includes **cable grommet holes** to keep wires organized and out of sight, while sturdy **metal legs with adjustable levelers** ensure perfect stability on any floor. \n\nGet your hands on this essential office furniture piece for just **$459**. Add to cart today and upgrade your meeting space!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Black Peppercorns",
+   "key_features": [
+    "bold peppery flavor",
+    "resealable pouch",
+    "grinder compatible size"
+   ],
+   "price": 4.99,
+   "facts": "4-ounce pouch of sun-dried peppercorns sourced from tropical growing regions."
+  },
+  "text": "**Elevate Your Dishes with Premium Whole Black Peppercorns**\n\nUnlock the full potential of your cooking with our high-quality **Whole Black Peppercorns**, featuring a **bold peppery flavor** that adds depth and character to every meal. Sourced from pristine **tropical growing regions**, these **4-ounce pouches** of sun-dried peppercorns deliver authentic taste and reliable aroma.\n\nDesigned for convenience, each order comes in a convenient **resealable pouch** to maintain freshness, and the perfect **grinder compatible size** ensures smooth operation with your favorite mills. At just **$4.99**, this is an excellent value for any kitchen enthusiast.\n\n**Add to Cart now and start seasoning your culinary creations!**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Black Peppercorns",
+   "key_features": [
+    "bold peppery flavor",
+    "resealable pouch",
+    "grinder compatible size"
+   ],
+   "price": 4.99,
+   "facts": "4-ounce pouch of sun-dried peppercorns sourced from tropical growing regions."
+  },
+  "text": "**Elevate Your Cooking with Premium Whole Black Peppercorns**\n\nBring a burst of **bold peppery flavor** to your favorite dishes with our high-quality **Whole Black Peppercorns**. Sourced from exotic **tropical growing regions**, these **sun-dried peppercorns** deliver an authentic, robust taste in every grind. Perfect for enthusiasts who demand the best, this convenient **4-ounce pouch** ensures freshness and is **grinder compatible size** ready for immediate use. Trust our reliable **resealable pouch** to keep your spices fresh until you're ready to season your next meal.\n\n**Price: $4.99**\n",
+  "claude": {
+   "quality": 5,
+   "unsupported_claims": 0,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Black Peppercorns",
+   "key_features": [
+    "bold peppery flavor",
+    "resealable pouch",
+    "grinder compatible size"
+   ],
+   "price": 4.99,
+   "facts": "4-ounce pouch of sun-dried peppercorns sourced from tropical growing regions."
+  },
+  "text": "**Elevate Your Cooking with Premium Whole Black Peppercorns**\n\nUnlock the full potential of your recipes with our **Whole Black Peppercorns**, a **4-ounce pouch** of sun-dried peppercorns sourced from the finest **tropical growing regions**. These peppercorns deliver an unmistakable **bold peppery flavor** that instantly enhances any dish, from savory stews to fresh salads.\n\nDesigned for your convenience, these **grinder-compatible** peppercorns come in a reliable **resealable pouch**, ensuring they stay fresh and ready for use whenever inspiration strikes. Add this quality spice to your pantry today for just **$4.99**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Whole Black Peppercorns",
+   "key_features": [
+    "bold peppery flavor",
+    "resealable pouch",
+    "grinder compatible size"
+   ],
+   "price": 4.99,
+   "facts": "4-ounce pouch of sun-dried peppercorns sourced from tropical growing regions."
+  },
+  "text": "**Elevate Your Cooking with Premium Whole Black Peppercorns**\n\nBring the heat of tropical regions to your kitchen with our premium **Whole Black Peppercorns**. Sourced from sun-dried peppercorns in vibrant growing regions, this **4-ounce pouch** delivers an authentic **bold peppery flavor** that transforms any dish. Perfectly sized for reliable **grinder compatibility**, these peppercorns ensure consistent results every time. Stored in a convenient **resealable pouch**, they stay fresh until you're ready to season your next meal.\n\n**Price: $4.99**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Natural Dish Soap",
+   "key_features": [
+    "plant based formula",
+    "grease cutting power",
+    "lavender scent"
+   ],
+   "price": 6.49,
+   "facts": "16-ounce bottle made with biodegradable surfactants and no synthetic dyes."
+  },
+  "text": "**Bring the Freshness of Nature to Your Kitchen with Our Premium Natural Dish Soap!**\n\nExperience reliable cleaning without compromising on eco-friendliness. Our **Natural Dish Soap** features a trusted **plant-based formula** packed with impressive **grease-cutting power** that tackles even the toughest kitchen messes. Infused with a soothing **lavender scent**, every wash leaves your dishes smelling clean and refreshed.\n\nThis reliable **16-ounce bottle** is crafted with **biodegradable surfactants** and contains **no synthetic dyes**, making it a safe and sustainable choice for your home.\n\n**Price: $6.49**  \n*Add to cart today and enjoy guilt-free cleaning!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Natural Dish Soap",
+   "key_features": [
+    "plant based formula",
+    "grease cutting power",
+    "lavender scent"
+   ],
+   "price": 6.49,
+   "facts": "16-ounce bottle made with biodegradable surfactants and no synthetic dyes."
+  },
+  "text": "**Eco-Friendly Cleansing with Every Drop**\n\nIntroduce a touch of nature into your kitchen routine with our premium **Natural Dish Soap**. Crafted with a reliable **plant-based formula**, this soap delivers impressive **grease-cutting power** to tackle even the toughest residues, leaving your dishes sparkling clean.\n\nIndulge your senses with its refreshing **lavender scent**, while knowing you're making a choice that cares for the planet. The **16-ounce bottle** is formulated with **biodegradable surfactants** and contains **no synthetic dyes**, ensuring a safe and effective clean for your family and the environment.\n\n**Price: $6.49**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Natural Dish Soap",
+   "key_features": [
+    "plant based formula",
+    "grease cutting power",
+    "lavender scent"
+   ],
+   "price": 6.49,
+   "facts": "16-ounce bottle made with biodegradable surfactants and no synthetic dyes."
+  },
+  "text": "**Discover the Perfect Clean with Our Premium Natural Dish Soap!**\n\nTreat your kitchen and the planet to a gentle yet powerful cleaning solution. Our **Natural Dish Soap** combines a reliable **plant-based formula** with impressive **grease-cutting power**, ensuring your dishes shine without harsh chemicals. Infused with a soothing **lavender scent**, every wash feels like a calming spa experience.\n\nThis trusted **16-ounce bottle** is crafted with **biodegradable surfactants** and contains **no synthetic dyes**, making it an eco-friendly choice for your daily routine.\n\n**Price: $6.49**\n*Add to cart now and experience the difference!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Natural Dish Soap",
+   "key_features": [
+    "plant based formula",
+    "grease cutting power",
+    "lavender scent"
+   ],
+   "price": 6.49,
+   "facts": "16-ounce bottle made with biodegradable surfactants and no synthetic dyes."
+  },
+  "text": "**Clean Your Dishes with Nature's Best: Premium Natural Dish Soap**\n\nUpgrade your kitchen routine with our premium **Natural Dish Soap**, the perfect blend of eco-friendly reliability and fresh aroma. Crafted with a trusted **plant-based formula**, this soap delivers impressive **grease-cutting power** to tackle even the toughest stains without harsh chemicals.\n\nEnjoy a soothing **lavender scent** that leaves your dishes smelling fresh and clean. This reliable **16-ounce bottle** is made with **biodegradable surfactants** and contains **no synthetic dyes**, ensuring a safer choice for your home and the environment.\n\n**Price: $6.49** \u2013 Add to cart now for a cleaner, greener way to wash!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Solar Garden Lights Set",
+   "key_features": [
+    "set of 8 lights",
+    "automatic dusk sensor",
+    "warm white led"
+   ],
+   "price": 22.99,
+   "facts": "Each light stands 15 inches tall and charges via an integrated solar panel."
+  },
+  "text": "**Brighten Your Outdoor Space with Our Premium Solar Garden Lights Set!**\n\nTransform your garden, pathway, or patio into a welcoming ambiance with this reliable **Solar Garden Lights Set**, available now for just **$22.99**. This convenient set includes **8 high-quality lights**, each standing **15 inches tall** to provide perfect illumination without the need for wiring or batteries.\n\nEquipped with a reliable **automatic dusk sensor**, these lights seamlessly switch on at sunset and off at sunrise, ensuring you never have to worry about manual operation. The **warm white LED** bulbs cast a gentle, inviting glow that enhances the beauty of your landscape while being energy-efficient. Thanks to the **integrated solar panel**, each light charges efficiently during the day, delivering dependable performance whenever you need it.\n\nAdd this stylish and practical set to your cart today and enjoy hassle-free outdoor lighting!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Solar Garden Lights Set",
+   "key_features": [
+    "set of 8 lights",
+    "automatic dusk sensor",
+    "warm white led"
+   ],
+   "price": 22.99,
+   "facts": "Each light stands 15 inches tall and charges via an integrated solar panel."
+  },
+  "text": "**Brighten Your Outdoor Space with Our Premium Solar Garden Lights Set!**\n\nTransform your garden or pathway into a magical evening retreat with this reliable **Solar Garden Lights Set**. This premium collection includes **8 elegant lights**, each standing **15 inches tall** and featuring a high-efficiency **integrated solar panel** that ensures reliable charging throughout the day.\n\nEquipped with a smart **automatic dusk sensor**, these lights activate seamlessly at sunset, casting a beautiful **warm white LED** glow that creates a cozy and inviting atmosphere. Whether you're lining your walkway or accenting your flower beds, this set offers perfect illumination without the need for wiring or electricity bills.\n\n**Get the perfect blend of style and sustainability for just $22.99!**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Solar Garden Lights Set",
+   "key_features": [
+    "set of 8 lights",
+    "automatic dusk sensor",
+    "warm white led"
+   ],
+   "price": 22.99,
+   "facts": "Each light stands 15 inches tall and charges via an integrated solar panel."
+  },
+  "text": "**Transform Your Outdoor Space with Our Premium Solar Garden Lights Set!**\n\nBrighten your garden paths, flower beds, or patio edges effortlessly with this reliable **Solar Garden Lights Set**. This premium collection includes **8 high-quality lights**, each standing **15 inches tall** to provide perfect illumination without cluttering your landscape.\n\nEquipped with an advanced **automatic dusk sensor**, these lights turn on at sunset and off at sunrise, ensuring you never worry about manual operation. The **warm white LED** bulbs cast a soft, inviting glow that enhances the ambiance of your home while being energy-efficient. With reliable **integrated solar panels** for easy charging, you can enjoy beautiful, eco-friendly lighting year-round.\n\n**Price: $22.99**\n*Add to cart now and bring your garden to life!*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Solar Garden Lights Set",
+   "key_features": [
+    "set of 8 lights",
+    "automatic dusk sensor",
+    "warm white led"
+   ],
+   "price": 22.99,
+   "facts": "Each light stands 15 inches tall and charges via an integrated solar panel."
+  },
+  "text": "**Bring Your Garden to Life with Our Premium Solar Garden Lights Set!**\n\nIlluminate your outdoor space effortlessly with this reliable **Solar Garden Lights Set**, featuring **8 high-quality lights** designed to create a magical ambiance. Each light stands **15 inches tall** and is equipped with an efficient **integrated solar panel** that automatically charges during the day, ensuring your path is lit up every evening.\n\nThe built-in **automatic dusk sensor** guarantees hassle-free operation, while the premium **warm white LED** bulbs provide a cozy, inviting glow perfect for patios, walkways, and landscaping.\n\n**Price: $22.99**  \n*Add to cart now and enjoy beautiful, sustainable lighting today!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Soft Knit Baby Swaddle",
+   "key_features": [
+    "breathable cotton blend",
+    "adjustable velcro wings",
+    "machine washable"
+   ],
+   "price": 12.99,
+   "facts": "Fits infants from 0 to 3 months and comes in a pack of two neutral colors."
+  },
+  "text": "**Keep Your Little One Cozy and Comfortable with Our Premium Soft Knit Baby Swaddle!**\n\nCrafted from a premium **breathable cotton blend**, this reliable **Soft Knit Baby Swaddle** ensures your infant stays comfortable without overheating. Designed with practical **adjustable velcro wings** for a secure, fuss-free fit, it grows with your baby through their first few months.\n\nPerfect for daily use, these swaddles are fully **machine washable** for easy care. This value pack includes **two neutral colors**, offering great style and versatility for infants from **0 to 3 months**.\n\n**Price: $12.99**\n*Don't miss out on this essential baby item! Add to cart now.*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Soft Knit Baby Swaddle",
+   "key_features": [
+    "breathable cotton blend",
+    "adjustable velcro wings",
+    "machine washable"
+   ],
+   "price": 12.99,
+   "facts": "Fits infants from 0 to 3 months and comes in a pack of two neutral colors."
+  },
+  "text": "**Keep Your Little One Comfortably Cozy with Our Premium Soft Knit Baby Swaddle!**\n\nSay goodbye to tangled blankets and hello to peaceful sleep nights. This **Soft Knit Baby Swaddle** is crafted from a premium **breathable cotton blend**, ensuring your infant stays warm without overheating. Designed with practicality in mind, the innovative **adjustable velcro wings** make diaper changes quick and hassle-free, while the durable fabric is fully **machine washable** for easy care.\n\nPerfect for your newest arrival, this set **fits infants from 0 to 3 months** and includes a delightful **pack of two neutral colors** that match any nursery decor. Don't miss out on this essential item for just **$12.99**\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Soft Knit Baby Swaddle",
+   "key_features": [
+    "breathable cotton blend",
+    "adjustable velcro wings",
+    "machine washable"
+   ],
+   "price": 12.99,
+   "facts": "Fits infants from 0 to 3 months and comes in a pack of two neutral colors."
+  },
+  "text": "**Keep Your Little One Comfortable with Our Premium Soft Knit Baby Swaddle**\n\nProvide your newborn with the ultimate sense of security and comfort using our reliable **Soft Knit Baby Swaddle**. Crafted from a premium **breathable cotton blend**, these swaddles ensure your baby stays cozy without overheating, making them perfect for gentle naps and peaceful nights.\n\nDesigned with practicality in mind, the **adjustable velcro wings** allow for a secure, customized fit that grows with your infant, while the **machine washable** fabric guarantees easy care and long-lasting hygiene. Ideal for **infants from 0 to 3 months**, this value pack includes **two neutral colors** to match any nursery decor.\n\nDon't miss out on this essential item for just **$12.99**! Add to your cart today and give your baby the softest hug they've ever known.\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Soft Knit Baby Swaddle",
+   "key_features": [
+    "breathable cotton blend",
+    "adjustable velcro wings",
+    "machine washable"
+   ],
+   "price": 12.99,
+   "facts": "Fits infants from 0 to 3 months and comes in a pack of two neutral colors."
+  },
+  "text": "**Keep Your Little One Cozy and Comfortable with Our Premium Soft Knit Baby Swaddle!**\n\nDesigned for the gentlest of newborns, this **Soft Knit Baby Swaddle** offers the perfect balance of warmth and breathability. Crafted from a high-quality **breathable cotton blend**, it ensures your infant stays comfortable throughout the day and night without overheating.\n\nFeaturing reliable **adjustable velcro wings**, swaddling has never been easier, providing a secure fit that grows with your baby. Practical and convenient, the swaddle is fully **machine washable**, making cleanup a breeze for busy parents.\n\nPerfect for **infants from 0 to 3 months**, this reliable set comes in a convenient **pack of two neutral colors** that match any nursery decor.\n\n**Price: $12.99**\n*Don't miss out\u2014add this essential item to your cart today!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Silicone Baking Cups",
+   "key_features": [
+    "reusable cupcake liners",
+    "non-stick surface",
+    "set of twelve"
+   ],
+   "price": 8.99,
+   "facts": "Each cup measures 2.5 inches wide and withstands temperatures from -40 to 450 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Baking Game with Premium Silicone Baking Cups!**\n\nSay goodbye to flimsy paper liners and hello to reliable, **reusable cupcake liners** designed for perfection. Our high-quality **silicone baking cups** feature a reliable **non-stick surface**, ensuring your delicate creations release effortlessly every time. This convenient **set of twelve** is perfect for small batches or sharing with friends.\n\nCrafted with precision, each cup measures **2.5 inches wide** and is engineered to withstand extreme temperatures from **-40 to 450 degrees Fahrenheit**, making them ideal for everything from freezing desserts to roasting in the oven.\n\n**Price: $8.99**  \n*Add to cart today and start baking with confidence!*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Silicone Baking Cups",
+   "key_features": [
+    "reusable cupcake liners",
+    "non-stick surface",
+    "set of twelve"
+   ],
+   "price": 8.99,
+   "facts": "Each cup measures 2.5 inches wide and withstands temperatures from -40 to 450 degrees Fahrenheit."
+  },
+  "text": "**Upgrade Your Baking with Premium Silicone Baking Cups!**\n\nSay goodbye to messy paper liners and burnt cupcakes! Our high-quality **Silicone Baking Cups** feature a reliable **non-stick surface**, ensuring your creations release effortlessly for a perfect finish every time. This convenient **set of twelve** **reusable cupcake liners** is designed to last, with each cup measuring **2.5 inches wide** to fit standard muffin tins perfectly.\n\nBuilt to perform in any kitchen challenge, these cups **withstand temperatures from -40 to 450 degrees Fahrenheit**, making them ideal for everything from freezing treats to baking hot cakes. Grab this reliable set today for just **$8.99**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Silicone Baking Cups",
+   "key_features": [
+    "reusable cupcake liners",
+    "non-stick surface",
+    "set of twelve"
+   ],
+   "price": 8.99,
+   "facts": "Each cup measures 2.5 inches wide and withstands temperatures from -40 to 450 degrees Fahrenheit."
+  },
+  "text": "**Elevate Your Baking with Premium Silicone Baking Cups!**\n\nUpgrade your kitchen essentials with our reliable **Silicone Baking Cups**, designed for bakers who value quality and convenience. This **set of twelve** features a superior **non-stick surface**, ensuring your cupcakes and muffins release effortlessly for a perfect finish every time. Unlike traditional paper liners, these **reusable cupcake liners** are built to last, offering consistent performance across multiple uses.\n\nCrafted for durability, each cup measures **2.5 inches wide** and is engineered to **withstand temperatures from -40 to 450 degrees Fahrenheit**, making them ideal for everything from freezing to high-heat baking. Grab this fantastic **set for just $8.99** and start baking with confidence today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Silicone Baking Cups",
+   "key_features": [
+    "reusable cupcake liners",
+    "non-stick surface",
+    "set of twelve"
+   ],
+   "price": 8.99,
+   "facts": "Each cup measures 2.5 inches wide and withstands temperatures from -40 to 450 degrees Fahrenheit."
+  },
+  "text": "**Premium Reusable Silicone Baking Cups \u2013 Set of Twelve**\n\nUpgrade your baking experience with our high-quality **Silicone Baking Cups**, the perfect eco-friendly alternative to traditional paper liners. Crafted with a reliable **non-stick surface**, these **reusable cupcake liners** ensure your treats release effortlessly, saving you time and reducing waste.\n\nThis convenient **set of twelve** features reliable dimensions, with each cup measuring **2.5 inches wide**. Designed for durability, they safely withstand extreme temperatures ranging from **-40 to 450 degrees Fahrenheit**, making them suitable for freezing, baking, and more.\n\n**Price: $8.99**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Folding Camp Chair",
+   "key_features": [
+    "aluminum frame",
+    "mesh cup holder",
+    "carry bag included"
+   ],
+   "price": 29.99,
+   "facts": "Weighs 4.5 pounds and supports up to 300 pounds with a padded armrest design."
+  },
+  "text": "**Upgrade Your Outdoor Experience with Our Premium Folding Camp Chair!**\n\nReliable comfort and easy portability meet in this fantastic **Folding Camp Chair**, perfect for camping trips, picnics, or relaxing by the park. Crafted with a durable **aluminum frame**, it effortlessly supports up to **300 pounds** while keeping the total weight at just **4.5 pounds** for simple transport.\n\nEnjoy added convenience with the built-in **mesh cup holder** to keep your drinks secure, and rest your arms in style with our premium **padded armrest design**. Don't forget our **carry bag included**, making setup and breakdown a breeze.\n\nGet yours today for only **$29.99**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Folding Camp Chair",
+   "key_features": [
+    "aluminum frame",
+    "mesh cup holder",
+    "carry bag included"
+   ],
+   "price": 29.99,
+   "facts": "Weighs 4.5 pounds and supports up to 300 pounds with a padded armrest design."
+  },
+  "text": "**Upgrade Your Outdoor Experience with Our Premium Folding Camp Chair!**\n\nPerfect for camping trips, picnics, or relaxing by the lake, this reliable **Folding Camp Chair** combines durability with comfort. Crafted with a sturdy **aluminum frame**, it effortlessly supports up to **300 pounds** while weighing only **4.5 pounds** for easy transport.\n\nEnjoy added convenience with the built-in **mesh cup holder** to keep your drinks secure and a convenient **carry bag included** to simplify packing and storage. Featuring a comfortable **padded armrest design**, this chair is ready to elevate your next adventure.\n\n**Price: $29.99** \u2013 Add to cart now and get ready for the outdoors!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Folding Camp Chair",
+   "key_features": [
+    "aluminum frame",
+    "mesh cup holder",
+    "carry bag included"
+   ],
+   "price": 29.99,
+   "facts": "Weighs 4.5 pounds and supports up to 300 pounds with a padded armrest design."
+  },
+  "text": "**Upgrade Your Outdoor Experience with Our Premium Folding Camp Chair!**\n\nReliable comfort is just a click away with our top-quality **Folding Camp Chair**, now available for only **$29.99**. Crafted with a durable **aluminum frame**, this chair effortlessly supports up to **300 pounds** while remaining incredibly lightweight at just **4.5 pounds**, making it perfect for hiking, camping, or tailgating.\n\nEnjoy extra convenience with the integrated **mesh cup holder** to keep your drinks secure and the convenient **carry bag included** for easy transport. Designed with a comfortable **padded armrest**, this chair ensures you can relax in style wherever your adventures take you. Add it to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Folding Camp Chair",
+   "key_features": [
+    "aluminum frame",
+    "mesh cup holder",
+    "carry bag included"
+   ],
+   "price": 29.99,
+   "facts": "Weighs 4.5 pounds and supports up to 300 pounds with a padded armrest design."
+  },
+  "text": "**Upgrade Your Outdoor Experience with Our Premium Folding Camp Chair!**\n\nPerfect for camping trips, tailgating, or relaxing in the park, this reliable **Folding Camp Chair** combines durability with comfort. Crafted with a sturdy **aluminum frame**, it effortlessly supports up to **300 pounds** while weighing only **4.5 pounds** for easy transport.\n\nEnjoy added convenience with the integrated **mesh cup holder** and the included **carry bag**, making setup and storage a breeze. Designed with a premium **padded armrest** for maximum relaxation, this chair is the ultimate companion for your next adventure.\n\n**Price: $29.99**\n*Add to cart today and get ready to relax in style!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Screen Protector Pack",
+   "key_features": [
+    "tempered glass material",
+    "anti fingerprint coating",
+    "pack of two"
+   ],
+   "price": 7.99,
+   "facts": "Includes alcohol wipes and a dust removal sticker for bubble-free application."
+  },
+  "text": "**Premium Screen Protector Pack \u2013 Ultimate Protection for Your Device!**\n\nUpgrade your mobile experience with our high-quality **Screen Protector Pack**, featuring durable **tempered glass material** designed to safeguard your screen against scratches and drops. Each protector is treated with a premium **anti-fingerprint coating** to ensure your device stays crisp and clear, while our convenient **pack of two** offers reliable backup protection.\n\nWe've made installation effortless with included **alcohol wipes** and a specialized **dust removal sticker** for a guaranteed **bubble-free application**. Don't wait\u2014grab yours today for just **$7.99**!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Screen Protector Pack",
+   "key_features": [
+    "tempered glass material",
+    "anti fingerprint coating",
+    "pack of two"
+   ],
+   "price": 7.99,
+   "facts": "Includes alcohol wipes and a dust removal sticker for bubble-free application."
+  },
+  "text": "**Premium Screen Protector Pack \u2013 Ultimate Protection for Your Device!**\n\nKeep your screen pristine with our high-quality **Screen Protector Pack**, now available for just **$7.99**! Crafted from durable **tempered glass material**, this reliable shield ensures your device stays safe from scratches and impacts while maintaining crystal-clear visibility. The advanced **anti-fingerprint coating** guarantees a smooth, streak-free touch experience every time you interact with your screen.\n\nThis convenient **pack of two** ensures you always have a backup ready. Plus, each set includes essential **alcohol wipes and a dust removal sticker**, making installation effortless and guaranteeing a **bubble-free application** right out of the box. Order today to safeguard your device with confidence!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Screen Protector Pack",
+   "key_features": [
+    "tempered glass material",
+    "anti fingerprint coating",
+    "pack of two"
+   ],
+   "price": 7.99,
+   "facts": "Includes alcohol wipes and a dust removal sticker for bubble-free application."
+  },
+  "text": "**Premium Screen Protector Pack \u2013 Keep Your Device Crystal Clear!**\n\nUpgrade your device's defense with our high-quality **Screen Protector Pack**, featuring reliable **tempered glass material** designed to withstand daily wear and tear. Each protector is treated with a premium **anti-fingerprint coating** to ensure your screen stays pristine and responsive all day long.\n\nThis convenient **pack of two** guarantees you always have a fresh shield ready to install. Installation is effortless thanks to our included **alcohol wipes and a dust removal sticker**, making achieving a perfect, **bubble-free application** a breeze.\n\nDon't wait to protect your investment\u2014grab this essential accessory today for just **$7.99**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Screen Protector Pack",
+   "key_features": [
+    "tempered glass material",
+    "anti fingerprint coating",
+    "pack of two"
+   ],
+   "price": 7.99,
+   "facts": "Includes alcohol wipes and a dust removal sticker for bubble-free application."
+  },
+  "text": "**Premium Screen Protector Pack \u2013 Ultimate Protection for Your Device**\n\nUpgrade your device's defense with our reliable **Screen Protector Pack**! Crafted from high-quality **tempered glass material**, this pack ensures superior durability and scratch resistance while maintaining crystal-clear visibility. The advanced **anti-fingerprint coating** keeps your screen looking pristine and smooth to the touch.\n\nThis convenient **pack of two** offers excellent value, and every order includes essential **alcohol wipes and a dust removal sticker** to guarantee a flawless, **bubble-free application** every time.\n\n**Price: $7.99**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Quinoa Grain",
+   "key_features": [
+    "gluten free grain",
+    "high protein content",
+    "pre-rinsed for cooking"
+   ],
+   "price": 7.99,
+   "facts": "16-ounce bag of white quinoa grown without synthetic pesticides or fertilizers."
+  },
+  "text": "**Premium Organic Quinoa Grain \u2013 Nature's Perfect Protein**\n\nElevate your meals with our **Organic Quinoa Grain**, a reliable and nutritious staple for your kitchen. This **16-ounce bag of white quinoa** is carefully cultivated without synthetic pesticides or fertilizers, ensuring you get a pure, clean-tasting product every time.\n\nPerfect for health-conscious cooks, this **gluten-free grain** offers an excellent **high protein content** to support your dietary goals. We've made preparation effortless by providing the quinoa **pre-rinsed for cooking**, saving you time and effort while delivering a fluffy, delicious result in every dish.\n\n**Price: $7.99**\n*Add to cart today and start enjoying the taste of organic perfection!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Quinoa Grain",
+   "key_features": [
+    "gluten free grain",
+    "high protein content",
+    "pre-rinsed for cooking"
+   ],
+   "price": 7.99,
+   "facts": "16-ounce bag of white quinoa grown without synthetic pesticides or fertilizers."
+  },
+  "text": "**Premium Organic Quinoa Grain \u2013 Nature's Perfect Superfood**\n\nElevate your meals with our premium **Organic Quinoa Grain**, a delicious and nutritious choice for health-conscious eaters. Grown without synthetic pesticides or fertilizers, this **16-ounce bag of white quinoa** is certified **gluten free**, making it an ideal staple for those with dietary restrictions.\n\nProudly featuring a **high protein content**, this versatile grain is ready to enhance your salads, bowls, or side dishes with minimal effort. It comes **pre-rinsed for cooking**, saving you time and ensuring a perfectly clean texture every time.\n\n**Price: $7.99**\n\n*Add to cart today and enjoy the taste of pure, organic goodness!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Quinoa Grain",
+   "key_features": [
+    "gluten free grain",
+    "high protein content",
+    "pre-rinsed for cooking"
+   ],
+   "price": 7.99,
+   "facts": "16-ounce bag of white quinoa grown without synthetic pesticides or fertilizers."
+  },
+  "text": "**Premium Organic White Quinoa Grain**\n\nElevate your meals with our high-quality **Organic Quinoa Grain**, the perfect gluten-free addition to any healthy diet. Grown without synthetic pesticides or fertilizers, this **16-ounce bag of white quinoa** offers a reliable **high protein content** to keep you fueled and satisfied. We've made cooking effortless by providing our quinoa **pre-rinsed**, so you can skip the soaking step and enjoy fluffy, nutritious results right out of the package.\n\n**Price: $7.99**\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 1
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Quinoa Grain",
+   "key_features": [
+    "gluten free grain",
+    "high protein content",
+    "pre-rinsed for cooking"
+   ],
+   "price": 7.99,
+   "facts": "16-ounce bag of white quinoa grown without synthetic pesticides or fertilizers."
+  },
+  "text": "**Elevate Your Meals with Premium Organic Quinoa Grain!**\n\nDiscover the perfect addition to your pantry with our **16-ounce bag of white Organic Quinoa Grain**. Grown responsibly without synthetic pesticides or fertilizers, this **gluten-free grain** offers a nutritious and delicious way to boost your diet. With its impressive **high protein content**, it's an ideal choice for health-conscious eaters looking for a wholesome ingredient.\n\nTo save you time and effort, this quinoa is **pre-rinsed for cooking**, ensuring it's ready to use straight out of the bag. Perfect for salads, bowls, or as a side dish, enjoy the quality you deserve for just **$7.99**. Add it to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Hydrating Facial Cleanser",
+   "key_features": [
+    "fragrance free formula",
+    "gentle foaming action",
+    "suitable for sensitive skin"
+   ],
+   "price": 9.99,
+   "facts": "Contains a 6-ounce pump bottle formulated with glycerin and aloe vera extract."
+  },
+  "text": "Introduce your daily skincare routine with our premium **Hydrating Facial Cleanser**, designed specifically to nourish and protect your complexion. This **fragrance-free formula** ensures a safe, non-irritating cleanse, making it the perfect choice for those with **sensitive skin**. Experience a **gentle foaming action** that effectively removes impurities without stripping away natural moisture, thanks to its enriching blend of **glycerin and aloe vera extract**. Packaged in a convenient **6-ounce pump bottle**, this reliable cleanser is available now for just **$9.99**.\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Hydrating Facial Cleanser",
+   "key_features": [
+    "fragrance free formula",
+    "gentle foaming action",
+    "suitable for sensitive skin"
+   ],
+   "price": 9.99,
+   "facts": "Contains a 6-ounce pump bottle formulated with glycerin and aloe vera extract."
+  },
+  "text": "**Discover the Perfect Gentle Start with Our Premium Hydrating Facial Cleanser!**\n\nRefresh your daily skincare routine with our trusted **Hydrating Facial Cleanser**, designed specifically for those with delicate complexions. This **fragrance-free formula** ensures a soothing experience, while its **gentle foaming action** effectively removes impurities without stripping your skin of natural moisture.\n\nEnriched with nourishing **glycerin and aloe vera extract**, this reliable **6-ounce pump bottle** is the ideal choice for maintaining healthy, balanced skin. Available now for just **$9.99**, bring home the ultimate care your sensitive skin deserves!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Hydrating Facial Cleanser",
+   "key_features": [
+    "fragrance free formula",
+    "gentle foaming action",
+    "suitable for sensitive skin"
+   ],
+   "price": 9.99,
+   "facts": "Contains a 6-ounce pump bottle formulated with glycerin and aloe vera extract."
+  },
+  "text": "**Revitalize Your Routine with Our Premium Hydrating Facial Cleanser!**\n\nDiscover the perfect daily skincare essential designed to cleanse and nourish without irritation. Our **fragrance-free formula** ensures a **gentle foaming action** that effectively removes impurities while maintaining your skin's natural moisture barrier, making it an ideal choice for **sensitive skin**.\n\nCrafted in a convenient **6-ounce pump bottle**, this reliable cleanser is enriched with soothing **glycerin** and **aloe vera extract** to leave your complexion feeling soft, clean, and refreshed.\n\n**Price: $9.99**\n*Add to cart today and experience the gentle care your skin deserves!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Hydrating Facial Cleanser",
+   "key_features": [
+    "fragrance free formula",
+    "gentle foaming action",
+    "suitable for sensitive skin"
+   ],
+   "price": 9.99,
+   "facts": "Contains a 6-ounce pump bottle formulated with glycerin and aloe vera extract."
+  },
+  "text": "Introducing our premium **Hydrating Facial Cleanser**, the perfect daily ritual for maintaining radiant, balanced skin. Crafted with a gentle **foaming action**, this **fragrance-free formula** is specifically designed to cleanse without stripping your skin's natural moisture barrier, making it ideal for those with **sensitive skin**.\n\nEach **6-ounce pump bottle** is enriched with soothing **glycerin and aloe vera extract** to provide deep hydration while you wash. Experience the ultimate comfort and purity for just **$9.99**\u2014add to cart today and reveal your best skin yet!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Multi-Surface Disinfectant Wipes",
+   "key_features": [
+    "kills common germs",
+    "fresh linen scent",
+    "pack of eighty"
+   ],
+   "price": 6.99,
+   "facts": "Pre-moistened wipes suitable for kitchen counters, doorknobs, and bathroom fixtures."
+  },
+  "text": "**Keep Your Home Spotless with Our Premium Multi-Surface Disinfectant Wipes!**\n\nEffortlessly eliminate common germs from kitchen counters, doorknobs, and bathroom fixtures with our reliable **Multi-Surface Disinfectant Wipes**. These pre-moistened wipes are designed to sanitize effectively while leaving behind a refreshing **fresh linen scent** that makes your cleaning routine feel like a spa day.\n\nPerfect for quick sanitization anywhere in your home, this convenient **pack of eighty** ensures you always have a clean surface ready. Grab yours today for just **$6.99** and experience the ultimate in hygiene and freshness!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Multi-Surface Disinfectant Wipes",
+   "key_features": [
+    "kills common germs",
+    "fresh linen scent",
+    "pack of eighty"
+   ],
+   "price": 6.99,
+   "facts": "Pre-moistened wipes suitable for kitchen counters, doorknobs, and bathroom fixtures."
+  },
+  "text": "**Keep Your Home Spotless with Our Premium Multi-Surface Disinfectant Wipes!**\n\nEffortlessly maintain a hygienic environment with our reliable **Multi-Surface Disinfectant Wipes**, designed to **kill common germs** on a wide variety of surfaces. Perfect for sanitizing **kitchen counters, doorknobs, and bathroom fixtures**, these **pre-moistened wipes** offer powerful protection you can trust.\n\nEnjoy the calming **fresh linen scent** while you clean, knowing you're protecting your family with every swipe. This convenient **pack of eighty** ensures you always have enough supplies on hand for daily cleaning needs.\n\n**Price: $6.99**\n*Add to cart today and keep your home safe!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Multi-Surface Disinfectant Wipes",
+   "key_features": [
+    "kills common germs",
+    "fresh linen scent",
+    "pack of eighty"
+   ],
+   "price": 6.99,
+   "facts": "Pre-moistened wipes suitable for kitchen counters, doorknobs, and bathroom fixtures."
+  },
+  "text": "**Keep Your Home Spotless with Our Premium Multi-Surface Disinfectant Wipes!**\n\nReliable protection meets refreshing freshness in this trusted **Multi-Surface Disinfectant Wipe** pack. Expertly formulated to **kill common germs** on contact, these **pre-moistened wipes** are perfect for tackling daily cleaning tasks on **kitchen counters, doorknobs, and bathroom fixtures**.\n\nEnjoy the comforting aroma of our signature **fresh linen scent** while you maintain a hygienic environment for your family. With a convenient **pack of eighty**, you'll have plenty of wipes on hand for every cleaning need.\n\n**Price: $6.99**\n*Add to cart today and keep your surfaces sparkling clean!*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 3,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Multi-Surface Disinfectant Wipes",
+   "key_features": [
+    "kills common germs",
+    "fresh linen scent",
+    "pack of eighty"
+   ],
+   "price": 6.99,
+   "facts": "Pre-moistened wipes suitable for kitchen counters, doorknobs, and bathroom fixtures."
+  },
+  "text": "**Keep Your Home Spotless with Our Premium Multi-Surface Disinfectant Wipes!**\n\nEnsure a cleaner, safer environment with our reliable **Multi-Surface Disinfectant Wipes**, expertly formulated to **kill common germs** on contact. These **pre-moistened wipes** are perfect for tackling daily cleaning tasks on **kitchen counters, doorknobs, and bathroom fixtures**, offering a powerful yet convenient way to maintain hygiene throughout your home.\n\nEnjoy the refreshing **fresh linen scent** that leaves your surfaces smelling clean and inviting. This convenient **pack of eighty** ensures you always have enough wipes on hand for any cleaning need.\n\n**Price: $6.99**\n*Add to cart today and keep your household germ-free!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Digital Kitchen Scale",
+   "key_features": [
+    "precise gram measurement",
+    "tare function included",
+    "compact flat design"
+   ],
+   "price": 15.99,
+   "facts": "Weighs up to 11 pounds with 1-gram accuracy and runs on two AAA batteries, included."
+  },
+  "text": "**Upgrade Your Baking and Cooking with Our Premium Digital Kitchen Scale!**\n\nAchieve perfect results every time with this reliable **Digital Kitchen Scale**, designed for precision and convenience. Featuring a **compact flat design**, it fits seamlessly into any kitchen counter while providing **precise gram measurement** with impressive **1-gram accuracy**. The built-in **tare function** allows you to easily zero out container weights, making portioning ingredients effortless.\n\nThis reliable unit **weighs up to 11 pounds** and comes ready to use with **two AAA batteries included**. Don't miss out on this fantastic deal\u2014get yours today for just **$15.99**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Digital Kitchen Scale",
+   "key_features": [
+    "precise gram measurement",
+    "tare function included",
+    "compact flat design"
+   ],
+   "price": 15.99,
+   "facts": "Weighs up to 11 pounds with 1-gram accuracy and runs on two AAA batteries, included."
+  },
+  "text": "**Precision Meets Portability with Our Premium Digital Kitchen Scale!**\n\nUpgrade your culinary creations with our reliable **Digital Kitchen Scale**, now available for just **$15.99**. Engineered for both professional chefs and home cooks, this scale delivers exceptional **precise gram measurement** with accurate readings of **1-gram**, ensuring your recipes are always perfect.\n\nFeaturing a convenient **tare function**, you can easily zero out bowl weights for effortless ingredient tracking. Its innovative **compact flat design** not only saves valuable counter space but also makes it ideal for weighing loose items like spices or nuts.\n\n**Key Specifications:**\n*   **Capacity:** Weighs up to 11 pounds\n*   **Accuracy:** 1-gram precision\n*   **Power:** Runs on two included AAA batteries\n\nAdd this high-quality tool to your kitchen today and master your measurements!\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Digital Kitchen Scale",
+   "key_features": [
+    "precise gram measurement",
+    "tare function included",
+    "compact flat design"
+   ],
+   "price": 15.99,
+   "facts": "Weighs up to 11 pounds with 1-gram accuracy and runs on two AAA batteries, included."
+  },
+  "text": "**Upgrade Your Cooking with Our Premium Digital Kitchen Scale!**\n\nAchieve restaurant-quality results at home with our reliable **Digital Kitchen Scale**, designed for precision and convenience. Featuring accurate **1-gram measurement** capabilities, this scale ensures every ingredient is measured perfectly for your favorite recipes. The built-in **tare function** makes it effortless to subtract container weight, while its innovative **compact flat design** fits seamlessly into any kitchen counter without taking up valuable space.\n\nReliable and ready to use right out of the box, this scale **weighs up to 11 pounds** and comes conveniently **included with two AAA batteries**. Don't miss out on this essential tool for just **$15.99**\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Digital Kitchen Scale",
+   "key_features": [
+    "precise gram measurement",
+    "tare function included",
+    "compact flat design"
+   ],
+   "price": 15.99,
+   "facts": "Weighs up to 11 pounds with 1-gram accuracy and runs on two AAA batteries, included."
+  },
+  "text": "**Precision Meets Portability with Our Premium Digital Kitchen Scale!**\n\nElevate your cooking and baking game with our reliable **Digital Kitchen Scale**, now available for just **$15.99**. Designed for both home chefs and culinary enthusiasts, this scale delivers **precise gram measurements** with impressive **1-gram accuracy**, ensuring your recipes turn out perfect every time.\n\nThanks to its innovative **compact flat design**, it fits seamlessly into any countertop without taking up valuable space, while the built-in **tare function** allows you to easily subtract container weight for accurate ingredient portions. Weighs up to **11 pounds** effortlessly and comes fully ready to use with **two AAA batteries included**. Don't miss out on this essential kitchen tool\u2014add it to your cart today!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Stackable File Box",
+   "key_features": [
+    "letter size fit",
+    "collapsible design",
+    "lid included"
+   ],
+   "price": 11.5,
+   "facts": "Made of corrugated cardboard and holds up to 50 hanging folders."
+  },
+  "text": "**Keep Your Documents Organized with Our Premium Stackable File Box!**\n\nStay efficient and save space with this reliable **Stackable File Box**, perfect for storing all your essential paperwork. Designed with a convenient **collapsible design**, this box is easy to store when not in use, while the included **lid** ensures your contents remain secure and dust-free.\n\nCrafted from durable **corrugated cardboard**, it provides sturdy protection for your **letter size** documents and comfortably holds up to **50 hanging folders**. At just **$11.50**, it's an affordable solution for maximizing your filing efficiency.\n\n**Add to cart today and streamline your office organization!**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Stackable File Box",
+   "key_features": [
+    "letter size fit",
+    "collapsible design",
+    "lid included"
+   ],
+   "price": 11.5,
+   "facts": "Made of corrugated cardboard and holds up to 50 hanging folders."
+  },
+  "text": "**Keep Your Workspace Organized with Our Premium Stackable File Box!**\n\nDesigned for efficiency and space-saving storage, this reliable **Stackable File Box** is the perfect solution for your office or home filing needs. Crafted from durable **corrugated cardboard**, it features a smart **collapsible design** that makes shipping and storage incredibly convenient, while the included **lid** ensures your documents stay secure and protected.\n\nWith a reliable **letter size fit**, this box comfortably holds up to **50 hanging folders**, making it ideal for archiving records, school projects, or business paperwork. Don't pay extra for premium packaging\u2014get reliable protection at an unbeatable value.\n\n**Price: $11.50**\n*Add to cart today and streamline your storage!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": true,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Stackable File Box",
+   "key_features": [
+    "letter size fit",
+    "collapsible design",
+    "lid included"
+   ],
+   "price": 11.5,
+   "facts": "Made of corrugated cardboard and holds up to 50 hanging folders."
+  },
+  "text": "**Keep Your Documents Organized with Our Premium Stackable File Box!**\n\nStreamline your storage solutions with our reliable **Stackable File Box**, perfect for organizing letters and essential paperwork. Crafted from durable **corrugated cardboard**, this innovative **collapsible design** saves valuable space when not in use, while the included **lid** ensures your contents stay secure and dust-free.\n\nIdeal for home offices or archives, each box comfortably fits **letter-size** documents and supports up to **50 hanging folders**. Grab this efficient storage solution today for just **$11.50**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Stackable File Box",
+   "key_features": [
+    "letter size fit",
+    "collapsible design",
+    "lid included"
+   ],
+   "price": 11.5,
+   "facts": "Made of corrugated cardboard and holds up to 50 hanging folders."
+  },
+  "text": "**Keep Your Documents Organized with Our Premium Stackable File Box!**\n\nEffortlessly store and transport your paperwork with this reliable **Stackable File Box**, perfectly designed to fit standard **letter-size** documents. Featuring a practical **collapsible design**, it offers convenient storage when not in use, while the included **lid** ensures your files stay secure and dust-free.\n\nCrafted from durable **corrugated cardboard**, this box is built to hold up to **50 hanging folders**, making it the ideal solution for offices, archives, and home organization.\n\n**Price: $11.50**\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Maple Syrup",
+   "key_features": [
+    "pure grade a syrup",
+    "glass bottle packaging",
+    "no added sugar"
+   ],
+   "price": 13.99,
+   "facts": "8.5-ounce bottle harvested from maple trees and evaporated without additives."
+  },
+  "text": "**Indulge in the Purest Taste of Nature with Our Premium Organic Maple Syrup!**\n\nExperience the authentic, rich flavor of the forest with our **Pure Grade A Organic Maple Syrup**. Carefully harvested directly from maple trees and gently evaporated without any artificial additives or added sugars, this syrup delivers an unmatched purity that elevates every pancake, waffle, or oatmeal bowl.\n\nCrafted for quality and sustainability, it comes in elegant **glass bottle packaging** (8.5 oz) that preserves its natural integrity and keeps the taste fresh from farm to table. Perfect for health-conscious foodies and families who refuse to compromise on flavor.\n\n**Price: $13.99**\n\n*Add to cart today and taste the difference of truly organic goodness!*\n",
+  "claude": {
+   "quality": 6,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Maple Syrup",
+   "key_features": [
+    "pure grade a syrup",
+    "glass bottle packaging",
+    "no added sugar"
+   ],
+   "price": 13.99,
+   "facts": "8.5-ounce bottle harvested from maple trees and evaporated without additives."
+  },
+  "text": "**Indulge in the Purest Taste of Nature with Our Premium Organic Maple Syrup!**\n\nExperience the authentic flavor of the woods with our **pure Grade A Organic Maple Syrup**, expertly harvested directly from maple trees and carefully evaporated without any additives. Perfect for drizzling over pancakes, waffles, or oatmeal, this **no added sugar** syrup delivers a rich, natural sweetness that your family will love.\n\nPackaged elegantly in a durable **glass bottle**, this **8.5-ounce** treat ensures freshness and quality from farm to table. Elevate your morning routine today for just **$13.99**!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Maple Syrup",
+   "key_features": [
+    "pure grade a syrup",
+    "glass bottle packaging",
+    "no added sugar"
+   ],
+   "price": 13.99,
+   "facts": "8.5-ounce bottle harvested from maple trees and evaporated without additives."
+  },
+  "text": "**Indulge in the Pure Taste of Nature with Our Organic Maple Syrup!**\n\nExperience the authentic sweetness of the season with our premium **Organic Maple Syrup**. Carefully **harvested from maple trees** and **evaporated without any additives**, this **pure Grade A syrup** delivers an authentic, rich flavor that elevates your morning pancakes or oatmeal.\n\nPerfectly preserved in elegant **glass bottle packaging**, this **8.5-ounce bottle** ensures freshness and quality for your kitchen. Enjoy the satisfaction of a natural treat with **no added sugar**, knowing you're getting nothing but pure, wholesome goodness.\n\n**Price: $13.99**\n*Add to cart today and taste the difference!*\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Organic Maple Syrup",
+   "key_features": [
+    "pure grade a syrup",
+    "glass bottle packaging",
+    "no added sugar"
+   ],
+   "price": 13.99,
+   "facts": "8.5-ounce bottle harvested from maple trees and evaporated without additives."
+  },
+  "text": "**Indulge in the Sweetest Taste of Nature with Our Premium Organic Maple Syrup!**\n\nExperience the authentic flavor of the forest with our **Pure Grade A Organic Maple Syrup**, carefully harvested directly from maple trees and gently evaporated to perfection. This delicious condiment is crafted with **no added sugars**, ensuring you get 100% natural sweetness in every drop.\n\nProudly presented in elegant **glass bottle packaging**, this **8.5-ounce** bottle preserves the syrup's rich quality and makes it perfect for drizzling over your favorite pancakes, waffles, or oatmeal. Add a touch of wholesome luxury to your morning routine today for just **$13.99**.\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 1,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Laptop Stand",
+   "key_features": [
+    "aluminum construction",
+    "6 height settings",
+    "ventilated design"
+   ],
+   "price": 34,
+   "facts": "Folds flat for travel and supports laptops from 10 to 17 inches, weighing 1.8 pounds."
+  },
+  "text": "**Upgrade Your Workspace with Our Premium Adjustable Laptop Stand**\n\nElevate your productivity and comfort today with our reliable **Adjustable Laptop Stand**, now available for just **$34**! Crafted from durable **aluminum construction**, this sleek stand features a smart **6 height settings** to find the perfect viewing angle for your needs. Its innovative **ventilated design** ensures your device stays cool during long work sessions.\n\nPerfect for both home and office, this stand supports laptops ranging from **10 to 17 inches** and conveniently **folds flat for travel**. Lightweight at only **1.8 pounds**, it's the ideal companion for your digital lifestyle. Add it to your cart now and experience superior ergonomics!\n",
+  "claude": {
+   "quality": 7,
+   "unsupported_claims": 2,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Laptop Stand",
+   "key_features": [
+    "aluminum construction",
+    "6 height settings",
+    "ventilated design"
+   ],
+   "price": 34,
+   "facts": "Folds flat for travel and supports laptops from 10 to 17 inches, weighing 1.8 pounds."
+  },
+  "text": "**Elevate Your Workspace with Our Premium Adjustable Laptop Stand**\n\nTransform your setup and boost your productivity with our reliable **Adjustable Laptop Stand**, now available for just **$34**! Crafted from durable **aluminum construction**, this sleek accessory offers **6 height settings** to find your perfect ergonomic angle, while its innovative **ventilated design** keeps your device cool during intensive tasks.\n\nPerfect for both home and on-the-go use, the stand **folds flat for travel** and conveniently supports laptops ranging from **10 to 17 inches**. Weighing only **1.8 pounds**, it's the lightweight, reliable solution you've been looking for. Add it to your cart today and experience the difference!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Laptop Stand",
+   "key_features": [
+    "aluminum construction",
+    "6 height settings",
+    "ventilated design"
+   ],
+   "price": 34,
+   "facts": "Folds flat for travel and supports laptops from 10 to 17 inches, weighing 1.8 pounds."
+  },
+  "text": "**Elevate Your Workspace with Our Premium Adjustable Laptop Stand**\n\nUpgrade your setup for ultimate comfort and efficiency with our reliable **Adjustable Laptop Stand**. Crafted from high-quality **aluminum construction**, this sleek accessory ensures durability while providing a **ventilated design** to keep your device cool during intense work sessions.\n\nFeaturing **6 height settings**, the stand perfectly accommodates laptops ranging from **10 to 17 inches**, allowing you to customize your viewing angle for optimal ergonomics. Weighing only **1.8 pounds** and folding completely flat, it is the ideal companion for **travel**.\n\nDon't miss out on this essential upgrade available for just **$34**!\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 9,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ },
+ {
+  "tag": "q9_s300",
+  "product": {
+   "name": "Adjustable Laptop Stand",
+   "key_features": [
+    "aluminum construction",
+    "6 height settings",
+    "ventilated design"
+   ],
+   "price": 34,
+   "facts": "Folds flat for travel and supports laptops from 10 to 17 inches, weighing 1.8 pounds."
+  },
+  "text": "**Elevate Your Workspace with Our Premium Adjustable Laptop Stand!**\n\nTransform your setup into a comfortable, ergonomic experience with this sleek **Adjustable Laptop Stand**. Crafted from high-quality **aluminum construction**, it offers durability and a modern aesthetic while featuring a smart **ventilated design** to keep your device cool during long work sessions.\n\nEnjoy ultimate flexibility with **6 height settings**, allowing you to customize your viewing angle perfectly. Whether you're at your desk or on the go, this stand **folds flat for travel** and reliably supports laptops ranging from **10 to 17 inches**. Lightweight yet sturdy at just **1.8 pounds**, it's the perfect companion for your daily productivity.\n\n**Price: $34**\n*Don't wait\u2014upgrade your setup today!*\n",
+  "claude": {
+   "quality": 8,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  },
+  "gpt": {
+   "error": "not judged (judge API quota exhausted during the run)"
+  },
+  "gemini": {
+   "quality": 10,
+   "unsupported_claims": 0,
+   "keyword_stuffing": false,
+   "wrong_facts": 0
+  }
+ }
+]
